@@ -1,51 +1,173 @@
+
 [
   {
-    "name": "AAaaa",
-    "alpha2Code": "AX",
-    "alpha3Code": "ALA",
-    "capital": "Mariehamn",
-    "region": "Europe",
-    "subregion": "Northern Europe",
-    "population": 28875,
-    "demonym": "Ålandish",
-    "nativeName": "Åland",
-    "flag": "https://restcountries.eu/data/ala.svg"
-  },
-  {
-    "name": "Abbb",
-    "alpha2Code": "AX",
-    "alpha3Code": "ALA",
-    "capital": "Mariehamn",
-    "region": "Europe",
-    "subregion": "Northern Europe",
-    "population": 28875,
-    "demonym": "Ålandish",
-    "nativeName": "Åland",
-    "flag": "https://restcountries.eu/data/ala.svg"
-  },
-  {
-    "name": "Accc",
-    "alpha2Code": "AX",
-    "alpha3Code": "ALA",
-    "capital": "Mariehamn",
-    "region": "Europe",
-    "subregion": "Northern Europe",
-    "population": 28875,
-    "demonym": "Ålandish",
-    "nativeName": "Åland",
-    "flag": "https://restcountries.eu/data/ala.svg"
-  },
-  {
     "name": "Afghanistan",
+    "topLevelDomain": [
+      ".af"
+    ],
+    "alpha2Code": "AF",
+    "alpha3Code": "AFG",
+    "callingCodes": [
+      "93"
+    ],
+    "capital": "Kabul",
+    "altSpellings": [
+      "AF",
+      "Afġānistān"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 27657145,
+    "latlng": [
+      33.0,
+      65.0
+    ],
+    "demonym": "Afghan",
+    "area": 652230.0,
+    "gini": 27.8,
+    "timezones": [
+      "UTC+04:30"
+    ],
+    "borders": [
+      "IRN",
+      "PAK",
+      "TKM",
+      "UZB",
+      "TJK",
+      "CHN"
+    ],
+    "nativeName": "افغانستان",
+    "numericCode": "004",
+    "currencies": [
+      {
+        "code": "AFN",
+        "name": "Afghan afghani",
+        "symbol": "؋"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "ps",
+        "iso639_2": "pus",
+        "name": "Pashto",
+        "nativeName": "پښتو"
+      },
+      {
+        "iso639_1": "uz",
+        "iso639_2": "uzb",
+        "name": "Uzbek",
+        "nativeName": "Oʻzbek"
+      },
+      {
+        "iso639_1": "tk",
+        "iso639_2": "tuk",
+        "name": "Turkmen",
+        "nativeName": "Türkmen"
+      }
+    ],
+    "translations": {
+      "de": "Afghanistan",
+      "es": "Afganistán",
+      "fr": "Afghanistan",
+      "ja": "アフガニスタン",
+      "it": "Afghanistan",
+      "br": "Afeganistão",
+      "pt": "Afeganistão",
+      "nl": "Afghanistan",
+      "hr": "Afganistan",
+      "fa": "افغانستان"
+    },
+    "flag": "https://restcountries.eu/data/afg.svg",
+    "regionalBlocs": [
+      {
+        "acronym": "SAARC",
+        "name": "South Asian Association for Regional Cooperation",
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
+      }
+    ],
+    "cioc": "AFG"
+  },
+  {
+    "name": "Åland Islands",
+    "topLevelDomain": [
+      ".ax"
+    ],
     "alpha2Code": "AX",
     "alpha3Code": "ALA",
+    "callingCodes": [
+      "358"
+    ],
     "capital": "Mariehamn",
+    "altSpellings": [
+      "AX",
+      "Aaland",
+      "Aland",
+      "Ahvenanmaa"
+    ],
     "region": "Europe",
     "subregion": "Northern Europe",
     "population": 28875,
+    "latlng": [
+      60.116667,
+      19.9
+    ],
     "demonym": "Ålandish",
+    "area": 1580.0,
+    "gini": null,
+    "timezones": [
+      "UTC+02:00"
+    ],
+    "borders": [
+      
+    ],
     "nativeName": "Åland",
-    "flag": "https://restcountries.eu/data/ala.svg"
+    "numericCode": "248",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "sv",
+        "iso639_2": "swe",
+        "name": "Swedish",
+        "nativeName": "svenska"
+      }
+    ],
+    "translations": {
+      "de": "Åland",
+      "es": "Alandia",
+      "fr": "Åland",
+      "ja": "オーランド諸島",
+      "it": "Isole Aland",
+      "br": "Ilhas de Aland",
+      "pt": "Ilhas de Aland",
+      "nl": "Ålandeilanden",
+      "hr": "Ålandski otoci",
+      "fa": "جزایر الند"
+    },
+    "flag": "https://restcountries.eu/data/ala.svg",
+    "regionalBlocs": [
+      {
+        "acronym": "EU",
+        "name": "European Union",
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
+      }
+    ],
+    "cioc": ""
   },
   {
     "name": "Albania",
@@ -68,11 +190,11 @@
     "subregion": "Southern Europe",
     "population": 2886026,
     "latlng": [
-      41,
-      20
+      41.0,
+      20.0
     ],
     "demonym": "Albanian",
-    "area": 28748,
+    "area": 28748.0,
     "gini": 34.5,
     "timezones": [
       "UTC+01:00"
@@ -117,11 +239,113 @@
       {
         "acronym": "CEFTA",
         "name": "Central European Free Trade Agreement",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "ALB"
+  },
+  {
+    "name": "Algeria",
+    "topLevelDomain": [
+      ".dz"
+    ],
+    "alpha2Code": "DZ",
+    "alpha3Code": "DZA",
+    "callingCodes": [
+      "213"
+    ],
+    "capital": "Algiers",
+    "altSpellings": [
+      "DZ",
+      "Dzayer",
+      "Algérie"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "population": 40400000,
+    "latlng": [
+      28.0,
+      3.0
+    ],
+    "demonym": "Algerian",
+    "area": 2381741.0,
+    "gini": 35.3,
+    "timezones": [
+      "UTC+01:00"
+    ],
+    "borders": [
+      "TUN",
+      "LBY",
+      "NER",
+      "ESH",
+      "MRT",
+      "MLI",
+      "MAR"
+    ],
+    "nativeName": "الجزائر",
+    "numericCode": "012",
+    "currencies": [
+      {
+        "code": "DZD",
+        "name": "Algerian dinar",
+        "symbol": "د.ج"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      }
+    ],
+    "translations": {
+      "de": "Algerien",
+      "es": "Argelia",
+      "fr": "Algérie",
+      "ja": "アルジェリア",
+      "it": "Algeria",
+      "br": "Argélia",
+      "pt": "Argélia",
+      "nl": "Algerije",
+      "hr": "Alžir",
+      "fa": "الجزایر"
+    },
+    "flag": "https://restcountries.eu/data/dza.svg",
+    "regionalBlocs": [
+      {
+        "acronym": "AU",
+        "name": "African Union",
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          "الاتحاد الأفريقي",
+          "Union africaine",
+          "União Africana",
+          "Unión Africana",
+          "Umoja wa Afrika"
+        ]
+      },
+      {
+        "acronym": "AL",
+        "name": "Arab League",
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          "جامعة الدول العربية",
+          "Jāmiʻat ad-Duwal al-ʻArabīyah",
+          "League of Arab States"
+        ]
+      }
+    ],
+    "cioc": "ALG"
   },
   {
     "name": "American Samoa",
@@ -145,15 +369,17 @@
     "population": 57100,
     "latlng": [
       -14.33333333,
-      -170
+      -170.0
     ],
     "demonym": "American Samoan",
-    "area": 199,
+    "area": 199.0,
     "gini": null,
     "timezones": [
       "UTC-11:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "American Samoa",
     "numericCode": "016",
     "currencies": [
@@ -190,7 +416,9 @@
       "fa": "ساموآی آمریکا"
     },
     "flag": "https://restcountries.eu/data/asm.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "ASA"
   },
   {
@@ -217,7 +445,7 @@
       1.5
     ],
     "demonym": "Andorran",
-    "area": 468,
+    "area": 468.0,
     "gini": null,
     "timezones": [
       "UTC+01:00"
@@ -256,7 +484,9 @@
       "fa": "آندورا"
     },
     "flag": "https://restcountries.eu/data/and.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "AND"
   },
   {
@@ -283,7 +513,7 @@
       18.5
     ],
     "demonym": "Angolan",
-    "area": 1246700,
+    "area": 1246700.0,
     "gini": 58.6,
     "timezones": [
       "UTC+01:00"
@@ -328,7 +558,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -362,12 +594,14 @@
       -63.16666666
     ],
     "demonym": "Anguillian",
-    "area": 91,
+    "area": 91.0,
     "gini": null,
     "timezones": [
       "UTC-04:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Anguilla",
     "numericCode": "660",
     "currencies": [
@@ -398,7 +632,9 @@
       "fa": "آنگویلا"
     },
     "flag": "https://restcountries.eu/data/aia.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": ""
   },
   {
@@ -412,7 +648,9 @@
       "672"
     ],
     "capital": "",
-    "altSpellings": [],
+    "altSpellings": [
+      
+    ],
     "region": "Polar",
     "subregion": "",
     "population": 1000,
@@ -433,7 +671,9 @@
       "UTC+10:00",
       "UTC+12:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Antarctica",
     "numericCode": "010",
     "currencies": [
@@ -475,7 +715,9 @@
       "fa": "جنوبگان"
     },
     "flag": "https://restcountries.eu/data/ata.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": ""
   },
   {
@@ -500,12 +742,14 @@
       -61.8
     ],
     "demonym": "Antiguan, Barbudan",
-    "area": 442,
+    "area": 442.0,
     "gini": null,
     "timezones": [
       "UTC-04:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Antigua and Barbuda",
     "numericCode": "028",
     "currencies": [
@@ -540,7 +784,9 @@
       {
         "acronym": "CARICOM",
         "name": "Caribbean Community",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "Comunidad del Caribe",
           "Communauté Caribéenne",
@@ -570,11 +816,11 @@
     "subregion": "South America",
     "population": 43590400,
     "latlng": [
-      -34,
-      -64
+      -34.0,
+      -64.0
     ],
     "demonym": "Argentinean",
-    "area": 2780400,
+    "area": 2780400.0,
     "gini": 44.5,
     "timezones": [
       "UTC-03:00"
@@ -662,11 +908,11 @@
     "subregion": "Western Asia",
     "population": 2994400,
     "latlng": [
-      40,
-      45
+      40.0,
+      45.0
     ],
     "demonym": "Armenian",
-    "area": 29743,
+    "area": 29743.0,
     "gini": 30.9,
     "timezones": [
       "UTC+04:00"
@@ -720,7 +966,9 @@
         "otherAcronyms": [
           "EAEU"
         ],
-        "otherNames": []
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "ARM"
@@ -747,12 +995,14 @@
       -69.96666666
     ],
     "demonym": "Aruban",
-    "area": 180,
+    "area": 180.0,
     "gini": null,
     "timezones": [
       "UTC-04:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Aruba",
     "numericCode": "533",
     "currencies": [
@@ -789,7 +1039,9 @@
       "fa": "آروبا"
     },
     "flag": "https://restcountries.eu/data/abw.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "ARU"
   },
   {
@@ -810,11 +1062,11 @@
     "subregion": "Australia and New Zealand",
     "population": 24117360,
     "latlng": [
-      -27,
-      133
+      -27.0,
+      133.0
     ],
     "demonym": "Australian",
-    "area": 7692024,
+    "area": 7692024.0,
     "gini": 30.5,
     "timezones": [
       "UTC+05:00",
@@ -826,7 +1078,9 @@
       "UTC+10:30",
       "UTC+11:30"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Australia",
     "numericCode": "036",
     "currencies": [
@@ -857,7 +1111,9 @@
       "fa": "استرالیا"
     },
     "flag": "https://restcountries.eu/data/aus.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "AUS"
   },
   {
@@ -885,8 +1141,8 @@
       13.33333333
     ],
     "demonym": "Austrian",
-    "area": 83871,
-    "gini": 26,
+    "area": 83871.0,
+    "gini": 26.0,
     "timezones": [
       "UTC+01:00"
     ],
@@ -934,8 +1190,12 @@
       {
         "acronym": "EU",
         "name": "European Union",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "AUT"
@@ -964,7 +1224,7 @@
       47.5
     ],
     "demonym": "Azerbaijani",
-    "area": 86600,
+    "area": 86600.0,
     "gini": 33.7,
     "timezones": [
       "UTC+04:00"
@@ -1006,7 +1266,9 @@
       "fa": "آذربایجان"
     },
     "flag": "https://restcountries.eu/data/aze.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "AZE"
   },
   {
@@ -1029,15 +1291,17 @@
     "population": 378040,
     "latlng": [
       24.25,
-      -76
+      -76.0
     ],
     "demonym": "Bahamian",
-    "area": 13943,
+    "area": 13943.0,
     "gini": null,
     "timezones": [
       "UTC-05:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Bahamas",
     "numericCode": "044",
     "currencies": [
@@ -1072,7 +1336,9 @@
       {
         "acronym": "CARICOM",
         "name": "Caribbean Community",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "Comunidad del Caribe",
           "Communauté Caribéenne",
@@ -1102,16 +1368,18 @@
     "subregion": "Western Asia",
     "population": 1404900,
     "latlng": [
-      26,
+      26.0,
       50.55
     ],
     "demonym": "Bahraini",
-    "area": 765,
+    "area": 765.0,
     "gini": null,
     "timezones": [
       "UTC+03:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "‏البحرين",
     "numericCode": "048",
     "currencies": [
@@ -1146,7 +1414,9 @@
       {
         "acronym": "AL",
         "name": "Arab League",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "جامعة الدول العربية",
           "Jāmiʻat ad-Duwal al-ʻArabīyah",
@@ -1176,11 +1446,11 @@
     "subregion": "Southern Asia",
     "population": 161006790,
     "latlng": [
-      24,
-      90
+      24.0,
+      90.0
     ],
     "demonym": "Bangladeshi",
-    "area": 147570,
+    "area": 147570.0,
     "gini": 32.1,
     "timezones": [
       "UTC+06:00"
@@ -1223,8 +1493,12 @@
       {
         "acronym": "SAARC",
         "name": "South Asian Association for Regional Cooperation",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "BAN"
@@ -1251,12 +1525,14 @@
       -59.53333333
     ],
     "demonym": "Barbadian",
-    "area": 430,
+    "area": 430.0,
     "gini": null,
     "timezones": [
       "UTC-04:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Barbados",
     "numericCode": "052",
     "currencies": [
@@ -1291,7 +1567,9 @@
       {
         "acronym": "CARICOM",
         "name": "Caribbean Community",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "Comunidad del Caribe",
           "Communauté Caribéenne",
@@ -1325,11 +1603,11 @@
     "subregion": "Eastern Europe",
     "population": 9498700,
     "latlng": [
-      53,
-      28
+      53.0,
+      28.0
     ],
     "demonym": "Belarusian",
-    "area": 207600,
+    "area": 207600.0,
     "gini": 26.5,
     "timezones": [
       "UTC+03:00"
@@ -1389,7 +1667,9 @@
         "otherAcronyms": [
           "EAEU"
         ],
-        "otherNames": []
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "BLR"
@@ -1421,11 +1701,11 @@
     "population": 11319511,
     "latlng": [
       50.83333333,
-      4
+      4.0
     ],
     "demonym": "Belgian",
-    "area": 30528,
-    "gini": 33,
+    "area": 30528.0,
+    "gini": 33.0,
     "timezones": [
       "UTC+01:00"
     ],
@@ -1481,8 +1761,12 @@
       {
         "acronym": "EU",
         "name": "European Union",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "BEL"
@@ -1509,7 +1793,7 @@
       -88.75
     ],
     "demonym": "Belizean",
-    "area": 22966,
+    "area": 22966.0,
     "gini": 53.1,
     "timezones": [
       "UTC-06:00"
@@ -1558,7 +1842,9 @@
       {
         "acronym": "CARICOM",
         "name": "Caribbean Community",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "Comunidad del Caribe",
           "Communauté Caribéenne",
@@ -1602,7 +1888,7 @@
       2.25
     ],
     "demonym": "Beninese",
-    "area": 112622,
+    "area": 112622.0,
     "gini": 38.6,
     "timezones": [
       "UTC+01:00"
@@ -1647,7 +1933,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -1684,12 +1972,14 @@
       -64.75
     ],
     "demonym": "Bermudian",
-    "area": 54,
+    "area": 54.0,
     "gini": null,
     "timezones": [
       "UTC-04:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Bermuda",
     "numericCode": "060",
     "currencies": [
@@ -1720,7 +2010,9 @@
       "fa": "برمودا"
     },
     "flag": "https://restcountries.eu/data/bmu.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "BER"
   },
   {
@@ -1746,7 +2038,7 @@
       90.5
     ],
     "demonym": "Bhutanese",
-    "area": 38394,
+    "area": 38394.0,
     "gini": 38.1,
     "timezones": [
       "UTC+06:00"
@@ -1794,8 +2086,12 @@
       {
         "acronym": "SAARC",
         "name": "South Asian Association for Regional Cooperation",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "BHU"
@@ -1825,11 +2121,11 @@
     "subregion": "South America",
     "population": 10985059,
     "latlng": [
-      -17,
-      -65
+      -17.0,
+      -65.0
     ],
     "demonym": "Bolivian",
-    "area": 1098581,
+    "area": 1098581.0,
     "gini": 56.3,
     "timezones": [
       "UTC-04:00"
@@ -1926,12 +2222,14 @@
       -68.266667
     ],
     "demonym": "Dutch",
-    "area": 294,
+    "area": 294.0,
     "gini": null,
     "timezones": [
       "UTC-04:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Bonaire",
     "numericCode": "535",
     "currencies": [
@@ -1962,7 +2260,9 @@
       "fa": "بونیر"
     },
     "flag": "https://restcountries.eu/data/bes.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": null
   },
   {
@@ -1985,11 +2285,11 @@
     "subregion": "Southern Europe",
     "population": 3531159,
     "latlng": [
-      44,
-      18
+      44.0,
+      18.0
     ],
     "demonym": "Bosnian, Herzegovinian",
-    "area": 51209,
+    "area": 51209.0,
     "gini": 36.2,
     "timezones": [
       "UTC+01:00"
@@ -2045,8 +2345,12 @@
       {
         "acronym": "CEFTA",
         "name": "Central European Free Trade Agreement",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "BIH"
@@ -2071,12 +2375,12 @@
     "subregion": "Southern Africa",
     "population": 2141206,
     "latlng": [
-      -22,
-      24
+      -22.0,
+      24.0
     ],
     "demonym": "Motswana",
-    "area": 582000,
-    "gini": 61,
+    "area": 582000.0,
+    "gini": 61.0,
     "timezones": [
       "UTC+02:00"
     ],
@@ -2126,7 +2430,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -2162,12 +2468,14 @@
       3.4
     ],
     "demonym": "",
-    "area": 49,
+    "area": 49.0,
     "gini": null,
     "timezones": [
       "UTC+01:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Bouvetøya",
     "numericCode": "074",
     "currencies": [
@@ -2210,7 +2518,9 @@
       "fa": "جزیره بووه"
     },
     "flag": "https://restcountries.eu/data/bvt.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": ""
   },
   {
@@ -2234,11 +2544,11 @@
     "subregion": "South America",
     "population": 206135893,
     "latlng": [
-      -10,
-      -55
+      -10.0,
+      -55.0
     ],
     "demonym": "Brazilian",
-    "area": 8515767,
+    "area": 8515767.0,
     "gini": 54.7,
     "timezones": [
       "UTC-05:00",
@@ -2325,16 +2635,18 @@
     "subregion": "Eastern Africa",
     "population": 3000,
     "latlng": [
-      -6,
+      -6.0,
       71.5
     ],
     "demonym": "Indian",
-    "area": 60,
+    "area": 60.0,
     "gini": null,
     "timezones": [
       "UTC+06:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "British Indian Ocean Territory",
     "numericCode": "086",
     "currencies": [
@@ -2369,7 +2681,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -2380,6 +2694,210 @@
       }
     ],
     "cioc": ""
+  },
+  {
+    "name": "United States Minor Outlying Islands",
+    "topLevelDomain": [
+      ".us"
+    ],
+    "alpha2Code": "UM",
+    "alpha3Code": "UMI",
+    "callingCodes": [
+      ""
+    ],
+    "capital": "",
+    "altSpellings": [
+      "UM"
+    ],
+    "region": "Americas",
+    "subregion": "Northern America",
+    "population": 300,
+    "latlng": [
+      
+    ],
+    "demonym": "American",
+    "area": null,
+    "gini": null,
+    "timezones": [
+      "UTC-11:00",
+      "UTC-10:00",
+      "UTC+12:00"
+    ],
+    "borders": [
+      
+    ],
+    "nativeName": "United States Minor Outlying Islands",
+    "numericCode": "581",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States Dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "translations": {
+      "de": "Kleinere Inselbesitzungen der Vereinigten Staaten",
+      "es": "Islas Ultramarinas Menores de Estados Unidos",
+      "fr": "Îles mineures éloignées des États-Unis",
+      "ja": "合衆国領有小離島",
+      "it": "Isole minori esterne degli Stati Uniti d'America",
+      "br": "Ilhas Menores Distantes dos Estados Unidos",
+      "pt": "Ilhas Menores Distantes dos Estados Unidos",
+      "nl": "Kleine afgelegen eilanden van de Verenigde Staten",
+      "hr": "Mali udaljeni otoci SAD-a",
+      "fa": "جزایر کوچک حاشیه‌ای ایالات متحده آمریکا"
+    },
+    "flag": "https://restcountries.eu/data/umi.svg",
+    "regionalBlocs": [
+      
+    ],
+    "cioc": ""
+  },
+  {
+    "name": "Virgin Islands (British)",
+    "topLevelDomain": [
+      ".vg"
+    ],
+    "alpha2Code": "VG",
+    "alpha3Code": "VGB",
+    "callingCodes": [
+      "1284"
+    ],
+    "capital": "Road Town",
+    "altSpellings": [
+      "VG"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 28514,
+    "latlng": [
+      18.431383,
+      -64.62305
+    ],
+    "demonym": "Virgin Islander",
+    "area": 151.0,
+    "gini": null,
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "borders": [
+      
+    ],
+    "nativeName": "British Virgin Islands",
+    "numericCode": "092",
+    "currencies": [
+      {
+        "code": null,
+        "name": "[D]",
+        "symbol": "$"
+      },
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "translations": {
+      "de": "Britische Jungferninseln",
+      "es": "Islas Vírgenes del Reino Unido",
+      "fr": "Îles Vierges britanniques",
+      "ja": "イギリス領ヴァージン諸島",
+      "it": "Isole Vergini Britanniche",
+      "br": "Ilhas Virgens Britânicas",
+      "pt": "Ilhas Virgens Britânicas",
+      "nl": "Britse Maagdeneilanden",
+      "hr": "Britanski Djevičanski Otoci",
+      "fa": "جزایر ویرجین بریتانیا"
+    },
+    "flag": "https://restcountries.eu/data/vgb.svg",
+    "regionalBlocs": [
+      
+    ],
+    "cioc": "IVB"
+  },
+  {
+    "name": "Virgin Islands (U.S.)",
+    "topLevelDomain": [
+      ".vi"
+    ],
+    "alpha2Code": "VI",
+    "alpha3Code": "VIR",
+    "callingCodes": [
+      "1 340"
+    ],
+    "capital": "Charlotte Amalie",
+    "altSpellings": [
+      "VI",
+      "USVI",
+      "American Virgin Islands",
+      "U.S. Virgin Islands"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "population": 114743,
+    "latlng": [
+      18.34,
+      -64.93
+    ],
+    "demonym": "Virgin Islander",
+    "area": 346.36,
+    "gini": null,
+    "timezones": [
+      "UTC-04:00"
+    ],
+    "borders": [
+      
+    ],
+    "nativeName": "Virgin Islands of the United States",
+    "numericCode": "850",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "translations": {
+      "de": "Amerikanische Jungferninseln",
+      "es": "Islas Vírgenes de los Estados Unidos",
+      "fr": "Îles Vierges des États-Unis",
+      "ja": "アメリカ領ヴァージン諸島",
+      "it": "Isole Vergini americane",
+      "br": "Ilhas Virgens Americanas",
+      "pt": "Ilhas Virgens Americanas",
+      "nl": "Verenigde Staten Maagdeneilanden",
+      "hr": null,
+      "fa": "جزایر ویرجین آمریکا"
+    },
+    "flag": "https://restcountries.eu/data/vir.svg",
+    "regionalBlocs": [
+      
+    ],
+    "cioc": "ISV"
   },
   {
     "name": "Brunei Darussalam",
@@ -2405,7 +2923,7 @@
       114.66666666
     ],
     "demonym": "Bruneian",
-    "area": 5765,
+    "area": 5765.0,
     "gini": null,
     "timezones": [
       "UTC+08:00"
@@ -2452,8 +2970,12 @@
       {
         "acronym": "ASEAN",
         "name": "Association of Southeast Asian Nations",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "BRU"
@@ -2478,11 +3000,11 @@
     "subregion": "Eastern Europe",
     "population": 7153784,
     "latlng": [
-      43,
-      25
+      43.0,
+      25.0
     ],
     "demonym": "Bulgarian",
-    "area": 110879,
+    "area": 110879.0,
     "gini": 28.2,
     "timezones": [
       "UTC+02:00"
@@ -2528,8 +3050,12 @@
       {
         "acronym": "EU",
         "name": "European Union",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "BUL"
@@ -2552,11 +3078,11 @@
     "subregion": "Western Africa",
     "population": 19034397,
     "latlng": [
-      13,
-      -2
+      13.0,
+      -2.0
     ],
     "demonym": "Burkinabe",
-    "area": 272967,
+    "area": 272967.0,
     "gini": 39.8,
     "timezones": [
       "UTC"
@@ -2609,7 +3135,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -2643,10 +3171,10 @@
     "population": 10114505,
     "latlng": [
       -3.5,
-      30
+      30.0
     ],
     "demonym": "Burundian",
-    "area": 27834,
+    "area": 27834.0,
     "gini": 33.3,
     "timezones": [
       "UTC+02:00"
@@ -2696,7 +3224,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -2707,159 +3237,6 @@
       }
     ],
     "cioc": "BDI"
-  },
-  {
-    "name": "Cabo Verde",
-    "topLevelDomain": [
-      ".cv"
-    ],
-    "alpha2Code": "CV",
-    "alpha3Code": "CPV",
-    "callingCodes": [
-      "238"
-    ],
-    "capital": "Praia",
-    "altSpellings": [
-      "CV",
-      "Republic of Cabo Verde",
-      "República de Cabo Verde"
-    ],
-    "region": "Africa",
-    "subregion": "Western Africa",
-    "population": 531239,
-    "latlng": [
-      16,
-      -24
-    ],
-    "demonym": "Cape Verdian",
-    "area": 4033,
-    "gini": 50.5,
-    "timezones": [
-      "UTC-01:00"
-    ],
-    "borders": [],
-    "nativeName": "Cabo Verde",
-    "numericCode": "132",
-    "currencies": [
-      {
-        "code": "CVE",
-        "name": "Cape Verdean escudo",
-        "symbol": "Esc"
-      }
-    ],
-    "languages": [
-      {
-        "iso639_1": "pt",
-        "iso639_2": "por",
-        "name": "Portuguese",
-        "nativeName": "Português"
-      }
-    ],
-    "translations": {
-      "de": "Kap Verde",
-      "es": "Cabo Verde",
-      "fr": "Cap Vert",
-      "ja": "カーボベルデ",
-      "it": "Capo Verde",
-      "br": "Cabo Verde",
-      "pt": "Cabo Verde",
-      "nl": "Kaapverdië",
-      "hr": "Zelenortska Republika",
-      "fa": "کیپ ورد"
-    },
-    "flag": "https://restcountries.eu/data/cpv.svg",
-    "regionalBlocs": [
-      {
-        "acronym": "AU",
-        "name": "African Union",
-        "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
-      }
-    ],
-    "cioc": "CPV"
-  },
-  {
-    "name": "Caca",
-    "topLevelDomain": [
-      ".es"
-    ],
-    "alpha2Code": "ES",
-    "alpha3Code": "ESP",
-    "callingCodes": [
-      "34"
-    ],
-    "capital": "Madrid",
-    "altSpellings": [
-      "ES",
-      "Kingdom of Spain",
-      "Reino de España"
-    ],
-    "region": "Europe",
-    "subregion": "Southern Europe",
-    "population": 46438422,
-    "latlng": [
-      40,
-      -4
-    ],
-    "demonym": "Spanish",
-    "area": 505992,
-    "gini": 34.7,
-    "timezones": [
-      "UTC",
-      "UTC+01:00"
-    ],
-    "borders": [
-      "AND",
-      "FRA",
-      "GIB",
-      "PRT",
-      "MAR"
-    ],
-    "nativeName": "España",
-    "numericCode": "724",
-    "currencies": [
-      {
-        "code": "EUR",
-        "name": "Euro",
-        "symbol": "€"
-      }
-    ],
-    "languages": [
-      {
-        "iso639_1": "es",
-        "iso639_2": "spa",
-        "name": "Spanish",
-        "nativeName": "Español"
-      }
-    ],
-    "translations": {
-      "de": "Spanien",
-      "es": "España",
-      "fr": "Espagne",
-      "ja": "スペイン",
-      "it": "Spagna",
-      "br": "Espanha",
-      "pt": "Espanha",
-      "nl": "Spanje",
-      "hr": "Španjolska",
-      "fa": "اسپانیا"
-    },
-    "flag": "https://restcountries.eu/data/esp.svg",
-    "regionalBlocs": [
-      {
-        "acronym": "EU",
-        "name": "European Union",
-        "otherAcronyms": [],
-        "otherNames": []
-      }
-    ],
-    "cioc": "ESP"
   },
   {
     "name": "Cambodia",
@@ -2880,11 +3257,11 @@
     "subregion": "South-Eastern Asia",
     "population": 15626444,
     "latlng": [
-      13,
-      105
+      13.0,
+      105.0
     ],
     "demonym": "Cambodian",
-    "area": 181035,
+    "area": 181035.0,
     "gini": 37.9,
     "timezones": [
       "UTC+07:00"
@@ -2933,8 +3310,12 @@
       {
         "acronym": "ASEAN",
         "name": "Association of Southeast Asian Nations",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "CAM"
@@ -2959,11 +3340,11 @@
     "subregion": "Middle Africa",
     "population": 22709892,
     "latlng": [
-      6,
-      12
+      6.0,
+      12.0
     ],
     "demonym": "Cameroonian",
-    "area": 475442,
+    "area": 475442.0,
     "gini": 38.9,
     "timezones": [
       "UTC+01:00"
@@ -3016,7 +3397,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -3046,11 +3429,11 @@
     "subregion": "Northern America",
     "population": 36155487,
     "latlng": [
-      60,
-      -95
+      60.0,
+      -95.0
     ],
     "demonym": "Canadian",
-    "area": 9984670,
+    "area": 9984670.0,
     "gini": 32.6,
     "timezones": [
       "UTC-08:00",
@@ -3103,7 +3486,9 @@
       {
         "acronym": "NAFTA",
         "name": "North American Free Trade Agreement",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "Tratado de Libre Comercio de América del Norte",
           "Accord de Libre-échange Nord-Américain"
@@ -3111,6 +3496,86 @@
       }
     ],
     "cioc": "CAN"
+  },
+  {
+    "name": "Cabo Verde",
+    "topLevelDomain": [
+      ".cv"
+    ],
+    "alpha2Code": "CV",
+    "alpha3Code": "CPV",
+    "callingCodes": [
+      "238"
+    ],
+    "capital": "Praia",
+    "altSpellings": [
+      "CV",
+      "Republic of Cabo Verde",
+      "República de Cabo Verde"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 531239,
+    "latlng": [
+      16.0,
+      -24.0
+    ],
+    "demonym": "Cape Verdian",
+    "area": 4033.0,
+    "gini": 50.5,
+    "timezones": [
+      "UTC-01:00"
+    ],
+    "borders": [
+      
+    ],
+    "nativeName": "Cabo Verde",
+    "numericCode": "132",
+    "currencies": [
+      {
+        "code": "CVE",
+        "name": "Cape Verdean escudo",
+        "symbol": "Esc"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "pt",
+        "iso639_2": "por",
+        "name": "Portuguese",
+        "nativeName": "Português"
+      }
+    ],
+    "translations": {
+      "de": "Kap Verde",
+      "es": "Cabo Verde",
+      "fr": "Cap Vert",
+      "ja": "カーボベルデ",
+      "it": "Capo Verde",
+      "br": "Cabo Verde",
+      "pt": "Cabo Verde",
+      "nl": "Kaapverdië",
+      "hr": "Zelenortska Republika",
+      "fa": "کیپ ورد"
+    },
+    "flag": "https://restcountries.eu/data/cpv.svg",
+    "regionalBlocs": [
+      {
+        "acronym": "AU",
+        "name": "African Union",
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          "الاتحاد الأفريقي",
+          "Union africaine",
+          "União Africana",
+          "Unión Africana",
+          "Umoja wa Afrika"
+        ]
+      }
+    ],
+    "cioc": "CPV"
   },
   {
     "name": "Cayman Islands",
@@ -3134,12 +3599,14 @@
       -80.5
     ],
     "demonym": "Caymanian",
-    "area": 264,
+    "area": 264.0,
     "gini": null,
     "timezones": [
       "UTC-05:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Cayman Islands",
     "numericCode": "136",
     "currencies": [
@@ -3170,7 +3637,9 @@
       "fa": "جزایر کیمن"
     },
     "flag": "https://restcountries.eu/data/cym.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "CAY"
   },
   {
@@ -3193,11 +3662,11 @@
     "subregion": "Middle Africa",
     "population": 4998000,
     "latlng": [
-      7,
-      21
+      7.0,
+      21.0
     ],
     "demonym": "Central African",
-    "area": 622984,
+    "area": 622984.0,
     "gini": 56.3,
     "timezones": [
       "UTC+01:00"
@@ -3250,7 +3719,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -3283,11 +3754,11 @@
     "subregion": "Middle Africa",
     "population": 14497000,
     "latlng": [
-      15,
-      19
+      15.0,
+      19.0
     ],
     "demonym": "Chadian",
-    "area": 1284000,
+    "area": 1284000.0,
     "gini": 39.8,
     "timezones": [
       "UTC+01:00"
@@ -3340,7 +3811,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -3372,11 +3845,11 @@
     "subregion": "South America",
     "population": 18191900,
     "latlng": [
-      -30,
-      -71
+      -30.0,
+      -71.0
     ],
     "demonym": "Chilean",
-    "area": 756102,
+    "area": 756102.0,
     "gini": 52.1,
     "timezones": [
       "UTC-06:00",
@@ -3421,7 +3894,9 @@
       {
         "acronym": "PA",
         "name": "Pacific Alliance",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "Alianza del Pacífico"
         ]
@@ -3468,12 +3943,12 @@
     "subregion": "Eastern Asia",
     "population": 1377422166,
     "latlng": [
-      35,
-      105
+      35.0,
+      105.0
     ],
     "demonym": "Chinese",
-    "area": 9640011,
-    "gini": 47,
+    "area": 9640011.0,
+    "gini": 47.0,
     "timezones": [
       "UTC+08:00"
     ],
@@ -3524,7 +3999,9 @@
       "fa": "چین"
     },
     "flag": "https://restcountries.eu/data/chn.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "CHN"
   },
   {
@@ -3550,12 +4027,14 @@
       105.66666666
     ],
     "demonym": "Christmas Island",
-    "area": 135,
+    "area": 135.0,
     "gini": null,
     "timezones": [
       "UTC+07:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Christmas Island",
     "numericCode": "162",
     "currencies": [
@@ -3586,7 +4065,9 @@
       "fa": "جزیره کریسمس"
     },
     "flag": "https://restcountries.eu/data/cxr.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": ""
   },
   {
@@ -3613,12 +4094,14 @@
       96.83333333
     ],
     "demonym": "Cocos Islander",
-    "area": 14,
+    "area": 14.0,
     "gini": null,
     "timezones": [
       "UTC+06:30"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Cocos (Keeling) Islands",
     "numericCode": "166",
     "currencies": [
@@ -3649,7 +4132,9 @@
       "fa": "جزایر کوکوس"
     },
     "flag": "https://restcountries.eu/data/cck.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": ""
   },
   {
@@ -3672,11 +4157,11 @@
     "subregion": "South America",
     "population": 48759958,
     "latlng": [
-      4,
-      -72
+      4.0,
+      -72.0
     ],
     "demonym": "Colombian",
-    "area": 1141748,
+    "area": 1141748.0,
     "gini": 55.9,
     "timezones": [
       "UTC-05:00"
@@ -3722,7 +4207,9 @@
       {
         "acronym": "PA",
         "name": "Pacific Alliance",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "Alianza del Pacífico"
         ]
@@ -3771,12 +4258,14 @@
       44.25
     ],
     "demonym": "Comoran",
-    "area": 1862,
+    "area": 1862.0,
     "gini": 64.3,
     "timezones": [
       "UTC+03:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Komori",
     "numericCode": "174",
     "currencies": [
@@ -3817,7 +4306,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -3829,7 +4320,9 @@
       {
         "acronym": "AL",
         "name": "Arab League",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "جامعة الدول العربية",
           "Jāmiʻat ad-Duwal al-ʻArabīyah",
@@ -3858,11 +4351,11 @@
     "subregion": "Middle Africa",
     "population": 4741000,
     "latlng": [
-      -1,
-      15
+      -1.0,
+      15.0
     ],
     "demonym": "Congolese",
-    "area": 342000,
+    "area": 342000.0,
     "gini": 47.3,
     "timezones": [
       "UTC+01:00"
@@ -3914,7 +4407,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -3947,11 +4442,11 @@
     "subregion": "Middle Africa",
     "population": 85026000,
     "latlng": [
-      0,
-      25
+      0.0,
+      25.0
     ],
     "demonym": "Congolese",
-    "area": 2344858,
+    "area": 2344858.0,
     "gini": null,
     "timezones": [
       "UTC+01:00",
@@ -4026,7 +4521,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -4061,12 +4558,14 @@
       -159.76666666
     ],
     "demonym": "Cook Islander",
-    "area": 236,
+    "area": 236.0,
     "gini": null,
     "timezones": [
       "UTC-10:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Cook Islands",
     "numericCode": "184",
     "currencies": [
@@ -4102,7 +4601,9 @@
       "fa": "جزایر کوک"
     },
     "flag": "https://restcountries.eu/data/cok.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "COK"
   },
   {
@@ -4125,11 +4626,11 @@
     "subregion": "Central America",
     "population": 4890379,
     "latlng": [
-      10,
-      -84
+      10.0,
+      -84.0
     ],
     "demonym": "Costa Rican",
-    "area": 51100,
+    "area": 51100.0,
     "gini": 50.7,
     "timezones": [
       "UTC-06:00"
@@ -4207,7 +4708,7 @@
       15.5
     ],
     "demonym": "Croatian",
-    "area": 56594,
+    "area": 56594.0,
     "gini": 33.7,
     "timezones": [
       "UTC+01:00"
@@ -4253,8 +4754,12 @@
       {
         "acronym": "EU",
         "name": "European Union",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "CRO"
@@ -4280,15 +4785,17 @@
     "population": 11239004,
     "latlng": [
       21.5,
-      -80
+      -80.0
     ],
     "demonym": "Cuban",
-    "area": 109884,
+    "area": 109884.0,
     "gini": null,
     "timezones": [
       "UTC-05:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Cuba",
     "numericCode": "192",
     "currencies": [
@@ -4324,7 +4831,9 @@
       "fa": "کوبا"
     },
     "flag": "https://restcountries.eu/data/cub.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "CUB"
   },
   {
@@ -4354,12 +4863,14 @@
       -68.933333
     ],
     "demonym": "Dutch",
-    "area": 444,
+    "area": 444.0,
     "gini": null,
     "timezones": [
       "UTC-04:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Curaçao",
     "numericCode": "531",
     "currencies": [
@@ -4402,7 +4913,9 @@
       "fa": "کوراسائو"
     },
     "flag": "https://restcountries.eu/data/cuw.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": ""
   },
   {
@@ -4428,11 +4941,11 @@
     "subregion": "Southern Europe",
     "population": 847000,
     "latlng": [
-      35,
-      33
+      35.0,
+      33.0
     ],
     "demonym": "Cypriot",
-    "area": 9251,
+    "area": 9251.0,
     "gini": null,
     "timezones": [
       "UTC+02:00"
@@ -4486,8 +4999,12 @@
       {
         "acronym": "EU",
         "name": "European Union",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "CYP"
@@ -4516,8 +5033,8 @@
       15.5
     ],
     "demonym": "Czech",
-    "area": 78865,
-    "gini": 26,
+    "area": 78865.0,
+    "gini": 26.0,
     "timezones": [
       "UTC+01:00"
     ],
@@ -4567,94 +5084,15 @@
       {
         "acronym": "EU",
         "name": "European Union",
-        "otherAcronyms": [],
-        "otherNames": []
-      }
-    ],
-    "cioc": "CZE"
-  },
-  {
-    "name": "Côte d'Ivoire",
-    "topLevelDomain": [
-      ".ci"
-    ],
-    "alpha2Code": "CI",
-    "alpha3Code": "CIV",
-    "callingCodes": [
-      "225"
-    ],
-    "capital": "Yamoussoukro",
-    "altSpellings": [
-      "CI",
-      "Ivory Coast",
-      "Republic of Côte d'Ivoire",
-      "République de Côte d'Ivoire"
-    ],
-    "region": "Africa",
-    "subregion": "Western Africa",
-    "population": 22671331,
-    "latlng": [
-      8,
-      -5
-    ],
-    "demonym": "Ivorian",
-    "area": 322463,
-    "gini": 41.5,
-    "timezones": [
-      "UTC"
-    ],
-    "borders": [
-      "BFA",
-      "GHA",
-      "GIN",
-      "LBR",
-      "MLI"
-    ],
-    "nativeName": "Côte d'Ivoire",
-    "numericCode": "384",
-    "currencies": [
-      {
-        "code": "XOF",
-        "name": "West African CFA franc",
-        "symbol": "Fr"
-      }
-    ],
-    "languages": [
-      {
-        "iso639_1": "fr",
-        "iso639_2": "fra",
-        "name": "French",
-        "nativeName": "français"
-      }
-    ],
-    "translations": {
-      "de": "Elfenbeinküste",
-      "es": "Costa de Marfil",
-      "fr": "Côte d'Ivoire",
-      "ja": "コートジボワール",
-      "it": "Costa D'Avorio",
-      "br": "Costa do Marfim",
-      "pt": "Costa do Marfim",
-      "nl": "Ivoorkust",
-      "hr": "Obala Bjelokosti",
-      "fa": "ساحل عاج"
-    },
-    "flag": "https://restcountries.eu/data/civ.svg",
-    "regionalBlocs": [
-      {
-        "acronym": "AU",
-        "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
+          
         ]
       }
     ],
-    "cioc": "CIV"
+    "cioc": "CZE"
   },
   {
     "name": "Denmark",
@@ -4677,12 +5115,12 @@
     "subregion": "Northern Europe",
     "population": 5717014,
     "latlng": [
-      56,
-      10
+      56.0,
+      10.0
     ],
     "demonym": "Danish",
-    "area": 43094,
-    "gini": 24,
+    "area": 43094.0,
+    "gini": 24.0,
     "timezones": [
       "UTC-04:00",
       "UTC-03:00",
@@ -4727,8 +5165,12 @@
       {
         "acronym": "EU",
         "name": "European Union",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "DEN"
@@ -4758,11 +5200,11 @@
     "population": 900000,
     "latlng": [
       11.5,
-      43
+      43.0
     ],
     "demonym": "Djibouti",
-    "area": 23200,
-    "gini": 40,
+    "area": 23200.0,
+    "gini": 40.0,
     "timezones": [
       "UTC+03:00"
     ],
@@ -4811,7 +5253,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -4823,7 +5267,9 @@
       {
         "acronym": "AL",
         "name": "Arab League",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "جامعة الدول العربية",
           "Jāmiʻat ad-Duwal al-ʻArabīyah",
@@ -4858,12 +5304,14 @@
       -61.33333333
     ],
     "demonym": "Dominican",
-    "area": 751,
+    "area": 751.0,
     "gini": null,
     "timezones": [
       "UTC-04:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Dominica",
     "numericCode": "212",
     "currencies": [
@@ -4894,7 +5342,9 @@
       "fa": "دومینیکا"
     },
     "flag": "https://restcountries.eu/data/dma.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "DMA"
   },
   {
@@ -4917,11 +5367,11 @@
     "subregion": "Caribbean",
     "population": 10075045,
     "latlng": [
-      19,
+      19.0,
       -70.66666666
     ],
     "demonym": "Dominican",
-    "area": 48671,
+    "area": 48671.0,
     "gini": 47.2,
     "timezones": [
       "UTC-04:00"
@@ -4963,7 +5413,9 @@
       {
         "acronym": "CARICOM",
         "name": "Caribbean Community",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "Comunidad del Caribe",
           "Communauté Caribéenne",
@@ -5003,11 +5455,11 @@
     "subregion": "South America",
     "population": 16545799,
     "latlng": [
-      -2,
+      -2.0,
       -77.5
     ],
     "demonym": "Ecuadorean",
-    "area": 276841,
+    "area": 276841.0,
     "gini": 49.3,
     "timezones": [
       "UTC-06:00",
@@ -5085,11 +5537,11 @@
     "subregion": "Northern Africa",
     "population": 91290000,
     "latlng": [
-      27,
-      30
+      27.0,
+      30.0
     ],
     "demonym": "Egyptian",
-    "area": 1002450,
+    "area": 1002450.0,
     "gini": 30.8,
     "timezones": [
       "UTC+02:00"
@@ -5133,7 +5585,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -5145,7 +5599,9 @@
       {
         "acronym": "AL",
         "name": "Arab League",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "جامعة الدول العربية",
           "Jāmiʻat ad-Duwal al-ʻArabīyah",
@@ -5179,7 +5635,7 @@
       -88.91666666
     ],
     "demonym": "Salvadoran",
-    "area": 21041,
+    "area": 21041.0,
     "gini": 48.3,
     "timezones": [
       "UTC-06:00"
@@ -5254,11 +5710,11 @@
     "subregion": "Middle Africa",
     "population": 1222442,
     "latlng": [
-      2,
-      10
+      2.0,
+      10.0
     ],
     "demonym": "Equatorial Guinean",
-    "area": 28051,
+    "area": 28051.0,
     "gini": null,
     "timezones": [
       "UTC+01:00"
@@ -5307,7 +5763,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -5343,11 +5801,11 @@
     "subregion": "Eastern Africa",
     "population": 5352000,
     "latlng": [
-      15,
-      39
+      15.0,
+      39.0
     ],
     "demonym": "Eritrean",
-    "area": 117600,
+    "area": 117600.0,
     "gini": null,
     "timezones": [
       "UTC+03:00"
@@ -5403,7 +5861,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -5436,12 +5896,12 @@
     "subregion": "Northern Europe",
     "population": 1315944,
     "latlng": [
-      59,
-      26
+      59.0,
+      26.0
     ],
     "demonym": "Estonian",
-    "area": 45227,
-    "gini": 36,
+    "area": 45227.0,
+    "gini": 36.0,
     "timezones": [
       "UTC+02:00"
     ],
@@ -5483,8 +5943,12 @@
       {
         "acronym": "EU",
         "name": "European Union",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "EST"
@@ -5510,11 +5974,11 @@
     "subregion": "Eastern Africa",
     "population": 92206005,
     "latlng": [
-      8,
-      38
+      8.0,
+      38.0
     ],
     "demonym": "Ethiopian",
-    "area": 1104300,
+    "area": 1104300.0,
     "gini": 29.8,
     "timezones": [
       "UTC+03:00"
@@ -5561,7 +6025,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -5593,15 +6059,17 @@
     "population": 2563,
     "latlng": [
       -51.75,
-      -59
+      -59.0
     ],
     "demonym": "Falkland Islander",
-    "area": 12173,
+    "area": 12173.0,
     "gini": null,
     "timezones": [
       "UTC-04:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Falkland Islands",
     "numericCode": "238",
     "currencies": [
@@ -5671,16 +6139,18 @@
     "subregion": "Northern Europe",
     "population": 49376,
     "latlng": [
-      62,
-      -7
+      62.0,
+      -7.0
     ],
     "demonym": "Faroese",
-    "area": 1393,
+    "area": 1393.0,
     "gini": null,
     "timezones": [
       "UTC+00:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Føroyar",
     "numericCode": "234",
     "currencies": [
@@ -5720,8 +6190,12 @@
       {
         "acronym": "EU",
         "name": "European Union",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": ""
@@ -5748,16 +6222,18 @@
     "subregion": "Melanesia",
     "population": 867000,
     "latlng": [
-      -18,
-      175
+      -18.0,
+      175.0
     ],
     "demonym": "Fijian",
-    "area": 18272,
+    "area": 18272.0,
     "gini": 42.8,
     "timezones": [
       "UTC+12:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Fiji",
     "numericCode": "242",
     "currencies": [
@@ -5806,7 +6282,9 @@
       "fa": "فیجی"
     },
     "flag": "https://restcountries.eu/data/fji.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "FIJ"
   },
   {
@@ -5831,11 +6309,11 @@
     "subregion": "Northern Europe",
     "population": 5491817,
     "latlng": [
-      64,
-      26
+      64.0,
+      26.0
     ],
     "demonym": "Finnish",
-    "area": 338424,
+    "area": 338424.0,
     "gini": 26.9,
     "timezones": [
       "UTC+02:00"
@@ -5885,11 +6363,109 @@
       {
         "acronym": "EU",
         "name": "European Union",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "FIN"
+  },
+  {
+    "name": "France",
+    "topLevelDomain": [
+      ".fr"
+    ],
+    "alpha2Code": "FR",
+    "alpha3Code": "FRA",
+    "callingCodes": [
+      "33"
+    ],
+    "capital": "Paris",
+    "altSpellings": [
+      "FR",
+      "French Republic",
+      "République française"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 66710000,
+    "latlng": [
+      46.0,
+      2.0
+    ],
+    "demonym": "French",
+    "area": 640679.0,
+    "gini": 32.7,
+    "timezones": [
+      "UTC-10:00",
+      "UTC-09:30",
+      "UTC-09:00",
+      "UTC-08:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC+01:00",
+      "UTC+03:00",
+      "UTC+04:00",
+      "UTC+05:00",
+      "UTC+11:00",
+      "UTC+12:00"
+    ],
+    "borders": [
+      "AND",
+      "BEL",
+      "DEU",
+      "ITA",
+      "LUX",
+      "MCO",
+      "ESP",
+      "CHE"
+    ],
+    "nativeName": "France",
+    "numericCode": "250",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "translations": {
+      "de": "Frankreich",
+      "es": "Francia",
+      "fr": "France",
+      "ja": "フランス",
+      "it": "Francia",
+      "br": "França",
+      "pt": "França",
+      "nl": "Frankrijk",
+      "hr": "Francuska",
+      "fa": "فرانسه"
+    },
+    "flag": "https://restcountries.eu/data/fra.svg",
+    "regionalBlocs": [
+      {
+        "acronym": "EU",
+        "name": "European Union",
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
+      }
+    ],
+    "cioc": "FRA"
   },
   {
     "name": "French Guiana",
@@ -5911,8 +6487,8 @@
     "subregion": "South America",
     "population": 254541,
     "latlng": [
-      4,
-      -53
+      4.0,
+      -53.0
     ],
     "demonym": "",
     "area": null,
@@ -5973,8 +6549,12 @@
       {
         "acronym": "EU",
         "name": "European Union",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": ""
@@ -6000,18 +6580,20 @@
     "subregion": "Polynesia",
     "population": 271800,
     "latlng": [
-      -15,
-      -140
+      -15.0,
+      -140.0
     ],
     "demonym": "French Polynesian",
-    "area": 4167,
+    "area": 4167.0,
     "gini": null,
     "timezones": [
       "UTC-10:00",
       "UTC-09:30",
       "UTC-09:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Polynésie française",
     "numericCode": "258",
     "currencies": [
@@ -6042,7 +6624,9 @@
       "fa": "پلی‌نزی فرانسه"
     },
     "flag": "https://restcountries.eu/data/pyf.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": ""
   },
   {
@@ -6067,12 +6651,14 @@
       69.167
     ],
     "demonym": "French",
-    "area": 7747,
+    "area": 7747.0,
     "gini": null,
     "timezones": [
       "UTC+05:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Territoire des Terres australes et antarctiques françaises",
     "numericCode": "260",
     "currencies": [
@@ -6107,7 +6693,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -6139,11 +6727,11 @@
     "subregion": "Middle Africa",
     "population": 1802278,
     "latlng": [
-      -1,
+      -1.0,
       11.75
     ],
     "demonym": "Gabonese",
-    "area": 267668,
+    "area": 267668.0,
     "gini": 41.5,
     "timezones": [
       "UTC+01:00"
@@ -6187,7 +6775,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -6222,7 +6812,7 @@
       -16.56666666
     ],
     "demonym": "Gambian",
-    "area": 11295,
+    "area": 11295.0,
     "gini": null,
     "timezones": [
       "UTC+00:00"
@@ -6264,7 +6854,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -6295,11 +6887,11 @@
     "subregion": "Western Asia",
     "population": 3720400,
     "latlng": [
-      42,
+      42.0,
       43.5
     ],
     "demonym": "Georgian",
-    "area": 69700,
+    "area": 69700.0,
     "gini": 41.3,
     "timezones": [
       "UTC-05:00"
@@ -6340,7 +6932,9 @@
       "fa": "گرجستان"
     },
     "flag": "https://restcountries.eu/data/geo.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "GEO"
   },
   {
@@ -6363,11 +6957,11 @@
     "subregion": "Western Europe",
     "population": 81770900,
     "latlng": [
-      51,
-      9
+      51.0,
+      9.0
     ],
     "demonym": "German",
-    "area": 357114,
+    "area": 357114.0,
     "gini": 28.3,
     "timezones": [
       "UTC+01:00"
@@ -6417,8 +7011,12 @@
       {
         "acronym": "EU",
         "name": "European Union",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "GER"
@@ -6441,11 +7039,11 @@
     "subregion": "Western Africa",
     "population": 27670174,
     "latlng": [
-      8,
-      -2
+      8.0,
+      -2.0
     ],
     "demonym": "Ghanaian",
-    "area": 238533,
+    "area": 238533.0,
     "gini": 42.8,
     "timezones": [
       "UTC"
@@ -6489,7 +7087,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -6523,7 +7123,7 @@
       -5.35
     ],
     "demonym": "Gibraltar",
-    "area": 6,
+    "area": 6.0,
     "gini": null,
     "timezones": [
       "UTC+01:00"
@@ -6565,8 +7165,12 @@
       {
         "acronym": "EU",
         "name": "European Union",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": ""
@@ -6592,11 +7196,11 @@
     "subregion": "Southern Europe",
     "population": 10858018,
     "latlng": [
-      39,
-      22
+      39.0,
+      22.0
     ],
     "demonym": "Greek",
-    "area": 131990,
+    "area": 131990.0,
     "gini": 34.3,
     "timezones": [
       "UTC+02:00"
@@ -6641,8 +7245,12 @@
       {
         "acronym": "EU",
         "name": "European Union",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "GRE"
@@ -6666,11 +7274,11 @@
     "subregion": "Northern America",
     "population": 55847,
     "latlng": [
-      72,
-      -40
+      72.0,
+      -40.0
     ],
     "demonym": "Greenlandic",
-    "area": 2166086,
+    "area": 2166086.0,
     "gini": null,
     "timezones": [
       "UTC-04:00",
@@ -6678,7 +7286,9 @@
       "UTC-01:00",
       "UTC+00:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Kalaallit Nunaat",
     "numericCode": "304",
     "currencies": [
@@ -6709,7 +7319,9 @@
       "fa": "گرینلند"
     },
     "flag": "https://restcountries.eu/data/grl.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": ""
   },
   {
@@ -6734,12 +7346,14 @@
       -61.66666666
     ],
     "demonym": "Grenadian",
-    "area": 344,
+    "area": 344.0,
     "gini": null,
     "timezones": [
       "UTC-04:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Grenada",
     "numericCode": "308",
     "currencies": [
@@ -6774,7 +7388,9 @@
       {
         "acronym": "CARICOM",
         "name": "Caribbean Community",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "Comunidad del Caribe",
           "Communauté Caribéenne",
@@ -6812,7 +7428,9 @@
     "timezones": [
       "UTC-04:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Guadeloupe",
     "numericCode": "312",
     "currencies": [
@@ -6843,7 +7461,9 @@
       "fa": "جزیره گوادلوپ"
     },
     "flag": "https://restcountries.eu/data/glp.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": ""
   },
   {
@@ -6869,12 +7489,14 @@
       144.78333333
     ],
     "demonym": "Guamanian",
-    "area": 549,
+    "area": 549.0,
     "gini": null,
     "timezones": [
       "UTC+10:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Guam",
     "numericCode": "316",
     "currencies": [
@@ -6917,7 +7539,9 @@
       "fa": "گوام"
     },
     "flag": "https://restcountries.eu/data/gum.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "GUM"
   },
   {
@@ -6942,7 +7566,7 @@
       -90.25
     ],
     "demonym": "Guatemalan",
-    "area": 108889,
+    "area": 108889.0,
     "gini": 55.9,
     "timezones": [
       "UTC-06:00"
@@ -7021,12 +7645,14 @@
       -2.58333333
     ],
     "demonym": "Channel Islander",
-    "area": 78,
+    "area": 78.0,
     "gini": null,
     "timezones": [
       "UTC+00:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Guernsey",
     "numericCode": "831",
     "currencies": [
@@ -7068,7 +7694,9 @@
       "fa": "گرنزی"
     },
     "flag": "https://restcountries.eu/data/ggy.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": ""
   },
   {
@@ -7091,11 +7719,11 @@
     "subregion": "Western Africa",
     "population": 12947000,
     "latlng": [
-      11,
-      -10
+      11.0,
+      -10.0
     ],
     "demonym": "Guinean",
-    "area": 245857,
+    "area": 245857.0,
     "gini": 39.4,
     "timezones": [
       "UTC"
@@ -7148,7 +7776,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -7180,11 +7810,11 @@
     "subregion": "Western Africa",
     "population": 1547777,
     "latlng": [
-      12,
-      -15
+      12.0,
+      -15.0
     ],
     "demonym": "Guinea-Bissauan",
-    "area": 36125,
+    "area": 36125.0,
     "gini": 35.5,
     "timezones": [
       "UTC"
@@ -7227,7 +7857,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -7258,11 +7890,11 @@
     "subregion": "South America",
     "population": 746900,
     "latlng": [
-      5,
-      -59
+      5.0,
+      -59.0
     ],
     "demonym": "Guyanese",
-    "area": 214969,
+    "area": 214969.0,
     "gini": 44.5,
     "timezones": [
       "UTC-04:00"
@@ -7306,7 +7938,9 @@
       {
         "acronym": "CARICOM",
         "name": "Caribbean Community",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "Comunidad del Caribe",
           "Communauté Caribéenne",
@@ -7352,11 +7986,11 @@
     "subregion": "Caribbean",
     "population": 11078033,
     "latlng": [
-      19,
+      19.0,
       -72.41666666
     ],
     "demonym": "Haitian",
-    "area": 27750,
+    "area": 27750.0,
     "gini": 59.2,
     "timezones": [
       "UTC-05:00"
@@ -7404,7 +8038,9 @@
       {
         "acronym": "CARICOM",
         "name": "Caribbean Community",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "Comunidad del Caribe",
           "Communauté Caribéenne",
@@ -7437,12 +8073,14 @@
       72.51666666
     ],
     "demonym": "Heard and McDonald Islander",
-    "area": 412,
+    "area": 412.0,
     "gini": null,
     "timezones": [
       "UTC+05:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Heard Island and McDonald Islands",
     "numericCode": "334",
     "currencies": [
@@ -7473,7 +8111,9 @@
       "fa": "جزیره هرد و جزایر مک‌دونالد"
     },
     "flag": "https://restcountries.eu/data/hmd.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": ""
   },
   {
@@ -7556,7 +8196,9 @@
       "fa": "سریر مقدس"
     },
     "flag": "https://restcountries.eu/data/vat.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": ""
   },
   {
@@ -7579,12 +8221,12 @@
     "subregion": "Central America",
     "population": 8576532,
     "latlng": [
-      15,
+      15.0,
       -86.5
     ],
     "demonym": "Honduran",
-    "area": 112492,
-    "gini": 57,
+    "area": 112492.0,
+    "gini": 57.0,
     "timezones": [
       "UTC-06:00"
     ],
@@ -7660,7 +8302,7 @@
       114.16666666
     ],
     "demonym": "Chinese",
-    "area": 1104,
+    "area": 1104.0,
     "gini": 53.3,
     "timezones": [
       "UTC+08:00"
@@ -7704,7 +8346,9 @@
       "fa": "هنگ‌کنگ"
     },
     "flag": "https://restcountries.eu/data/hkg.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "HKG"
   },
   {
@@ -7725,11 +8369,11 @@
     "subregion": "Eastern Europe",
     "population": 9823000,
     "latlng": [
-      47,
-      20
+      47.0,
+      20.0
     ],
     "demonym": "Hungarian",
-    "area": 93028,
+    "area": 93028.0,
     "gini": 31.2,
     "timezones": [
       "UTC+01:00"
@@ -7777,8 +8421,12 @@
       {
         "acronym": "EU",
         "name": "European Union",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "HUN"
@@ -7804,16 +8452,18 @@
     "subregion": "Northern Europe",
     "population": 334300,
     "latlng": [
-      65,
-      -18
+      65.0,
+      -18.0
     ],
     "demonym": "Icelander",
-    "area": 103000,
+    "area": 103000.0,
     "gini": null,
     "timezones": [
       "UTC"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Ísland",
     "numericCode": "352",
     "currencies": [
@@ -7848,8 +8498,12 @@
       {
         "acronym": "EFTA",
         "name": "European Free Trade Association",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "ISL"
@@ -7875,11 +8529,11 @@
     "subregion": "Southern Asia",
     "population": 1295210000,
     "latlng": [
-      20,
-      77
+      20.0,
+      77.0
     ],
     "demonym": "Indian",
-    "area": 3287590,
+    "area": 3287590.0,
     "gini": 33.4,
     "timezones": [
       "UTC+05:30"
@@ -7934,8 +8588,12 @@
       {
         "acronym": "SAARC",
         "name": "South Asian Association for Regional Cooperation",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "IND"
@@ -7960,12 +8618,12 @@
     "subregion": "South-Eastern Asia",
     "population": 258705000,
     "latlng": [
-      -5,
-      120
+      -5.0,
+      120.0
     ],
     "demonym": "Indonesian",
-    "area": 1904569,
-    "gini": 34,
+    "area": 1904569.0,
+    "gini": 34.0,
     "timezones": [
       "UTC+07:00",
       "UTC+08:00",
@@ -8010,11 +8668,100 @@
       {
         "acronym": "ASEAN",
         "name": "Association of Southeast Asian Nations",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "INA"
+  },
+  {
+    "name": "Côte d'Ivoire",
+    "topLevelDomain": [
+      ".ci"
+    ],
+    "alpha2Code": "CI",
+    "alpha3Code": "CIV",
+    "callingCodes": [
+      "225"
+    ],
+    "capital": "Yamoussoukro",
+    "altSpellings": [
+      "CI",
+      "Ivory Coast",
+      "Republic of Côte d'Ivoire",
+      "République de Côte d'Ivoire"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 22671331,
+    "latlng": [
+      8.0,
+      -5.0
+    ],
+    "demonym": "Ivorian",
+    "area": 322463.0,
+    "gini": 41.5,
+    "timezones": [
+      "UTC"
+    ],
+    "borders": [
+      "BFA",
+      "GHA",
+      "GIN",
+      "LBR",
+      "MLI"
+    ],
+    "nativeName": "Côte d'Ivoire",
+    "numericCode": "384",
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "translations": {
+      "de": "Elfenbeinküste",
+      "es": "Costa de Marfil",
+      "fr": "Côte d'Ivoire",
+      "ja": "コートジボワール",
+      "it": "Costa D'Avorio",
+      "br": "Costa do Marfim",
+      "pt": "Costa do Marfim",
+      "nl": "Ivoorkust",
+      "hr": "Obala Bjelokosti",
+      "fa": "ساحل عاج"
+    },
+    "flag": "https://restcountries.eu/data/civ.svg",
+    "regionalBlocs": [
+      {
+        "acronym": "AU",
+        "name": "African Union",
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          "الاتحاد الأفريقي",
+          "Union africaine",
+          "União Africana",
+          "Unión Africana",
+          "Umoja wa Afrika"
+        ]
+      }
+    ],
+    "cioc": "CIV"
   },
   {
     "name": "Iran (Islamic Republic of)",
@@ -8036,11 +8783,11 @@
     "subregion": "Southern Asia",
     "population": 79369900,
     "latlng": [
-      32,
-      53
+      32.0,
+      53.0
     ],
     "demonym": "Iranian",
-    "area": 1648195,
+    "area": 1648195.0,
     "gini": 38.3,
     "timezones": [
       "UTC+03:30"
@@ -8084,7 +8831,9 @@
       "fa": "ایران"
     },
     "flag": "https://restcountries.eu/data/irn.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "IRI"
   },
   {
@@ -8107,11 +8856,11 @@
     "subregion": "Western Asia",
     "population": 37883543,
     "latlng": [
-      33,
-      44
+      33.0,
+      44.0
     ],
     "demonym": "Iraqi",
-    "area": 438317,
+    "area": 438317.0,
     "gini": 30.9,
     "timezones": [
       "UTC+03:00"
@@ -8164,7 +8913,9 @@
       {
         "acronym": "AL",
         "name": "Arab League",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "جامعة الدول العربية",
           "Jāmiʻat ad-Duwal al-ʻArabīyah",
@@ -8195,11 +8946,11 @@
     "subregion": "Northern Europe",
     "population": 6378000,
     "latlng": [
-      53,
-      -8
+      53.0,
+      -8.0
     ],
     "demonym": "Irish",
-    "area": 70273,
+    "area": 70273.0,
     "gini": 34.3,
     "timezones": [
       "UTC"
@@ -8247,8 +8998,12 @@
       {
         "acronym": "EU",
         "name": "European Union",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "IRL"
@@ -8278,12 +9033,14 @@
       -4.5
     ],
     "demonym": "Manx",
-    "area": 572,
+    "area": 572.0,
     "gini": null,
     "timezones": [
       "UTC+00:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Isle of Man",
     "numericCode": "833",
     "currencies": [
@@ -8329,8 +9086,12 @@
       {
         "acronym": "EU",
         "name": "European Union",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": ""
@@ -8359,7 +9120,7 @@
       34.75
     ],
     "demonym": "Israeli",
-    "area": 20770,
+    "area": 20770.0,
     "gini": 39.2,
     "timezones": [
       "UTC+02:00"
@@ -8406,7 +9167,9 @@
       "fa": "اسرائیل"
     },
     "flag": "https://restcountries.eu/data/isr.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "ISR"
   },
   {
@@ -8433,8 +9196,8 @@
       12.83333333
     ],
     "demonym": "Italian",
-    "area": 301336,
-    "gini": 36,
+    "area": 301336.0,
+    "gini": 36.0,
     "timezones": [
       "UTC+01:00"
     ],
@@ -8480,8 +9243,12 @@
       {
         "acronym": "EU",
         "name": "European Union",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "ITA"
@@ -8508,12 +9275,14 @@
       -77.5
     ],
     "demonym": "Jamaican",
-    "area": 10991,
+    "area": 10991.0,
     "gini": 45.5,
     "timezones": [
       "UTC-05:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Jamaica",
     "numericCode": "388",
     "currencies": [
@@ -8548,7 +9317,9 @@
       {
         "acronym": "CARICOM",
         "name": "Caribbean Community",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "Comunidad del Caribe",
           "Communauté Caribéenne",
@@ -8578,16 +9349,18 @@
     "subregion": "Eastern Asia",
     "population": 126960000,
     "latlng": [
-      36,
-      138
+      36.0,
+      138.0
     ],
     "demonym": "Japanese",
-    "area": 377930,
+    "area": 377930.0,
     "gini": 38.1,
     "timezones": [
       "UTC+09:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "日本",
     "numericCode": "392",
     "currencies": [
@@ -8618,7 +9391,9 @@
       "fa": "ژاپن"
     },
     "flag": "https://restcountries.eu/data/jpn.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "JPN"
   },
   {
@@ -8646,12 +9421,14 @@
       -2.16666666
     ],
     "demonym": "Channel Islander",
-    "area": 116,
+    "area": 116.0,
     "gini": null,
     "timezones": [
       "UTC+01:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Jersey",
     "numericCode": "832",
     "currencies": [
@@ -8693,7 +9470,9 @@
       "fa": "جرزی"
     },
     "flag": "https://restcountries.eu/data/jey.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": ""
   },
   {
@@ -8716,11 +9495,11 @@
     "subregion": "Western Asia",
     "population": 9531712,
     "latlng": [
-      31,
-      36
+      31.0,
+      36.0
     ],
     "demonym": "Jordanian",
-    "area": 89342,
+    "area": 89342.0,
     "gini": 35.4,
     "timezones": [
       "UTC+03:00"
@@ -8765,7 +9544,9 @@
       {
         "acronym": "AL",
         "name": "Arab League",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "جامعة الدول العربية",
           "Jāmiʻat ad-Duwal al-ʻArabīyah",
@@ -8802,12 +9583,12 @@
     "subregion": "Central Asia",
     "population": 17753200,
     "latlng": [
-      48,
-      68
+      48.0,
+      68.0
     ],
     "demonym": "Kazakhstani",
-    "area": 2724900,
-    "gini": 29,
+    "area": 2724900.0,
+    "gini": 29.0,
     "timezones": [
       "UTC+05:00",
       "UTC+06:00"
@@ -8862,7 +9643,9 @@
         "otherAcronyms": [
           "EAEU"
         ],
-        "otherNames": []
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "KAZ"
@@ -8887,11 +9670,11 @@
     "subregion": "Eastern Africa",
     "population": 47251000,
     "latlng": [
-      1,
-      38
+      1.0,
+      38.0
     ],
     "demonym": "Kenyan",
-    "area": 580367,
+    "area": 580367.0,
     "gini": 47.7,
     "timezones": [
       "UTC+03:00"
@@ -8943,7 +9726,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -8976,17 +9761,19 @@
     "population": 113400,
     "latlng": [
       1.41666666,
-      173
+      173.0
     ],
     "demonym": "I-Kiribati",
-    "area": 811,
+    "area": 811.0,
     "gini": null,
     "timezones": [
       "UTC+12:00",
       "UTC+13:00",
       "UTC+14:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Kiribati",
     "numericCode": "296",
     "currencies": [
@@ -9022,140 +9809,10 @@
       "fa": "کیریباتی"
     },
     "flag": "https://restcountries.eu/data/kir.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "KIR"
-  },
-  {
-    "name": "Korea (Democratic People's Republic of)",
-    "topLevelDomain": [
-      ".kp"
-    ],
-    "alpha2Code": "KP",
-    "alpha3Code": "PRK",
-    "callingCodes": [
-      "850"
-    ],
-    "capital": "Pyongyang",
-    "altSpellings": [
-      "KP",
-      "Democratic People's Republic of Korea",
-      "조선민주주의인민공화국",
-      "Chosŏn Minjujuŭi Inmin Konghwaguk"
-    ],
-    "region": "Asia",
-    "subregion": "Eastern Asia",
-    "population": 25281000,
-    "latlng": [
-      40,
-      127
-    ],
-    "demonym": "North Korean",
-    "area": 120538,
-    "gini": null,
-    "timezones": [
-      "UTC+09:00"
-    ],
-    "borders": [
-      "CHN",
-      "KOR",
-      "RUS"
-    ],
-    "nativeName": "북한",
-    "numericCode": "408",
-    "currencies": [
-      {
-        "code": "KPW",
-        "name": "North Korean won",
-        "symbol": "₩"
-      }
-    ],
-    "languages": [
-      {
-        "iso639_1": "ko",
-        "iso639_2": "kor",
-        "name": "Korean",
-        "nativeName": "한국어"
-      }
-    ],
-    "translations": {
-      "de": "Nordkorea",
-      "es": "Corea del Norte",
-      "fr": "Corée du Nord",
-      "ja": "朝鮮民主主義人民共和国",
-      "it": "Corea del Nord",
-      "br": "Coreia do Norte",
-      "pt": "Coreia do Norte",
-      "nl": "Noord-Korea",
-      "hr": "Sjeverna Koreja",
-      "fa": "کره جنوبی"
-    },
-    "flag": "https://restcountries.eu/data/prk.svg",
-    "regionalBlocs": [],
-    "cioc": "PRK"
-  },
-  {
-    "name": "Korea (Republic of)",
-    "topLevelDomain": [
-      ".kr"
-    ],
-    "alpha2Code": "KR",
-    "alpha3Code": "KOR",
-    "callingCodes": [
-      "82"
-    ],
-    "capital": "Seoul",
-    "altSpellings": [
-      "KR",
-      "Republic of Korea"
-    ],
-    "region": "Asia",
-    "subregion": "Eastern Asia",
-    "population": 50801405,
-    "latlng": [
-      37,
-      127.5
-    ],
-    "demonym": "South Korean",
-    "area": 100210,
-    "gini": 31.3,
-    "timezones": [
-      "UTC+09:00"
-    ],
-    "borders": [
-      "PRK"
-    ],
-    "nativeName": "대한민국",
-    "numericCode": "410",
-    "currencies": [
-      {
-        "code": "KRW",
-        "name": "South Korean won",
-        "symbol": "₩"
-      }
-    ],
-    "languages": [
-      {
-        "iso639_1": "ko",
-        "iso639_2": "kor",
-        "name": "Korean",
-        "nativeName": "한국어"
-      }
-    ],
-    "translations": {
-      "de": "Südkorea",
-      "es": "Corea del Sur",
-      "fr": "Corée du Sud",
-      "ja": "大韓民国",
-      "it": "Corea del Sud",
-      "br": "Coreia do Sul",
-      "pt": "Coreia do Sul",
-      "nl": "Zuid-Korea",
-      "hr": "Južna Koreja",
-      "fa": "کره شمالی"
-    },
-    "flag": "https://restcountries.eu/data/kor.svg",
-    "regionalBlocs": [],
-    "cioc": "KOR"
   },
   {
     "name": "Kuwait",
@@ -9181,7 +9838,7 @@
       45.75
     ],
     "demonym": "Kuwaiti",
-    "area": 17818,
+    "area": 17818.0,
     "gini": null,
     "timezones": [
       "UTC+03:00"
@@ -9224,7 +9881,9 @@
       {
         "acronym": "AL",
         "name": "Arab League",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "جامعة الدول العربية",
           "Jāmiʻat ad-Duwal al-ʻArabīyah",
@@ -9256,11 +9915,11 @@
     "subregion": "Central Asia",
     "population": 6047800,
     "latlng": [
-      41,
-      75
+      41.0,
+      75.0
     ],
     "demonym": "Kirghiz",
-    "area": 199951,
+    "area": 199951.0,
     "gini": 36.2,
     "timezones": [
       "UTC+06:00"
@@ -9314,7 +9973,9 @@
         "otherAcronyms": [
           "EAEU"
         ],
-        "otherNames": []
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "KGZ"
@@ -9341,11 +10002,11 @@
     "subregion": "South-Eastern Asia",
     "population": 6492400,
     "latlng": [
-      18,
-      105
+      18.0,
+      105.0
     ],
     "demonym": "Laotian",
-    "area": 236800,
+    "area": 236800.0,
     "gini": 36.7,
     "timezones": [
       "UTC+07:00"
@@ -9391,8 +10052,12 @@
       {
         "acronym": "ASEAN",
         "name": "Association of Southeast Asian Nations",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "LAO"
@@ -9417,11 +10082,11 @@
     "subregion": "Northern Europe",
     "population": 1961600,
     "latlng": [
-      57,
-      25
+      57.0,
+      25.0
     ],
     "demonym": "Latvian",
-    "area": 64559,
+    "area": 64559.0,
     "gini": 36.6,
     "timezones": [
       "UTC+02:00"
@@ -9466,8 +10131,12 @@
       {
         "acronym": "EU",
         "name": "European Union",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "LAT"
@@ -9496,7 +10165,7 @@
       35.83333333
     ],
     "demonym": "Lebanese",
-    "area": 10452,
+    "area": 10452.0,
     "gini": null,
     "timezones": [
       "UTC+02:00"
@@ -9545,7 +10214,9 @@
       {
         "acronym": "AL",
         "name": "Arab League",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "جامعة الدول العربية",
           "Jāmiʻat ad-Duwal al-ʻArabīyah",
@@ -9579,7 +10250,7 @@
       28.5
     ],
     "demonym": "Mosotho",
-    "area": 30355,
+    "area": 30355.0,
     "gini": 52.5,
     "timezones": [
       "UTC+02:00"
@@ -9632,7 +10303,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -9667,7 +10340,7 @@
       -9.5
     ],
     "demonym": "Liberian",
-    "area": 111369,
+    "area": 111369.0,
     "gini": 38.2,
     "timezones": [
       "UTC"
@@ -9711,7 +10384,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -9743,11 +10418,11 @@
     "subregion": "Northern Africa",
     "population": 6385000,
     "latlng": [
-      25,
-      17
+      25.0,
+      17.0
     ],
     "demonym": "Libyan",
-    "area": 1759540,
+    "area": 1759540.0,
     "gini": null,
     "timezones": [
       "UTC+01:00"
@@ -9794,7 +10469,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -9806,7 +10483,9 @@
       {
         "acronym": "AL",
         "name": "Arab League",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "جامعة الدول العربية",
           "Jāmiʻat ad-Duwal al-ʻArabīyah",
@@ -9840,7 +10519,7 @@
       9.53333333
     ],
     "demonym": "Liechtensteiner",
-    "area": 160,
+    "area": 160.0,
     "gini": null,
     "timezones": [
       "UTC+01:00"
@@ -9883,8 +10562,12 @@
       {
         "acronym": "EFTA",
         "name": "European Free Trade Association",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "LIE"
@@ -9909,11 +10592,11 @@
     "subregion": "Northern Europe",
     "population": 2872294,
     "latlng": [
-      56,
-      24
+      56.0,
+      24.0
     ],
     "demonym": "Lithuanian",
-    "area": 65300,
+    "area": 65300.0,
     "gini": 37.6,
     "timezones": [
       "UTC+02:00"
@@ -9958,8 +10641,12 @@
       {
         "acronym": "EU",
         "name": "European Union",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "LTU"
@@ -9990,7 +10677,7 @@
       6.16666666
     ],
     "demonym": "Luxembourger",
-    "area": 2586,
+    "area": 2586.0,
     "gini": 30.8,
     "timezones": [
       "UTC+01:00"
@@ -10046,8 +10733,12 @@
       {
         "acronym": "EU",
         "name": "European Union",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "LUX"
@@ -10078,7 +10769,7 @@
       113.55
     ],
     "demonym": "Chinese",
-    "area": 30,
+    "area": 30.0,
     "gini": null,
     "timezones": [
       "UTC+08:00"
@@ -10122,7 +10813,9 @@
       "fa": "مکائو"
     },
     "flag": "https://restcountries.eu/data/mac.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": ""
   },
   {
@@ -10146,10 +10839,10 @@
     "population": 2058539,
     "latlng": [
       41.83333333,
-      22
+      22.0
     ],
     "demonym": "Macedonian",
-    "area": 25713,
+    "area": 25713.0,
     "gini": 43.2,
     "timezones": [
       "UTC+01:00"
@@ -10195,8 +10888,12 @@
       {
         "acronym": "CEFTA",
         "name": "Central European Free Trade Agreement",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "MKD"
@@ -10222,16 +10919,18 @@
     "subregion": "Eastern Africa",
     "population": 22434363,
     "latlng": [
-      -20,
-      47
+      -20.0,
+      47.0
     ],
     "demonym": "Malagasy",
-    "area": 587041,
+    "area": 587041.0,
     "gini": 44.1,
     "timezones": [
       "UTC+03:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Madagasikara",
     "numericCode": "450",
     "currencies": [
@@ -10272,7 +10971,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -10304,11 +11005,11 @@
     "population": 16832910,
     "latlng": [
       -13.5,
-      34
+      34.0
     ],
     "demonym": "Malawian",
-    "area": 118484,
-    "gini": 39,
+    "area": 118484.0,
+    "gini": 39.0,
     "timezones": [
       "UTC+02:00"
     ],
@@ -10357,7 +11058,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -10391,7 +11094,7 @@
       112.5
     ],
     "demonym": "Malaysian",
-    "area": 330803,
+    "area": 330803.0,
     "gini": 46.2,
     "timezones": [
       "UTC+08:00"
@@ -10435,8 +11138,12 @@
       {
         "acronym": "ASEAN",
         "name": "Association of Southeast Asian Nations",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "MAS"
@@ -10463,15 +11170,17 @@
     "population": 344023,
     "latlng": [
       3.25,
-      73
+      73.0
     ],
     "demonym": "Maldivan",
-    "area": 300,
+    "area": 300.0,
     "gini": 37.4,
     "timezones": [
       "UTC+05:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Maldives",
     "numericCode": "462",
     "currencies": [
@@ -10506,8 +11215,12 @@
       {
         "acronym": "SAARC",
         "name": "South Asian Association for Regional Cooperation",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "MDV"
@@ -10532,12 +11245,12 @@
     "subregion": "Western Africa",
     "population": 18135000,
     "latlng": [
-      17,
-      -4
+      17.0,
+      -4.0
     ],
     "demonym": "Malian",
-    "area": 1240192,
-    "gini": 33,
+    "area": 1240192.0,
+    "gini": 33.0,
     "timezones": [
       "UTC"
     ],
@@ -10584,7 +11297,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -10620,12 +11335,14 @@
       14.58333333
     ],
     "demonym": "Maltese",
-    "area": 316,
+    "area": 316.0,
     "gini": null,
     "timezones": [
       "UTC+01:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Malta",
     "numericCode": "470",
     "currencies": [
@@ -10666,8 +11383,12 @@
       {
         "acronym": "EU",
         "name": "European Union",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "MLT"
@@ -10692,16 +11413,18 @@
     "subregion": "Micronesia",
     "population": 54880,
     "latlng": [
-      9,
-      168
+      9.0,
+      168.0
     ],
     "demonym": "Marshallese",
-    "area": 181,
+    "area": 181.0,
     "gini": null,
     "timezones": [
       "UTC+12:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "M̧ajeļ",
     "numericCode": "584",
     "currencies": [
@@ -10738,7 +11461,9 @@
       "fa": "جزایر مارشال"
     },
     "flag": "https://restcountries.eu/data/mhl.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "MHL"
   },
   {
@@ -10760,7 +11485,7 @@
     "population": 378243,
     "latlng": [
       14.666667,
-      -61
+      -61.0
     ],
     "demonym": "French",
     "area": null,
@@ -10768,7 +11493,9 @@
     "timezones": [
       "UTC-04:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Martinique",
     "numericCode": "474",
     "currencies": [
@@ -10799,7 +11526,9 @@
       "fa": "مونتسرات"
     },
     "flag": "https://restcountries.eu/data/mtq.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": ""
   },
   {
@@ -10822,11 +11551,11 @@
     "subregion": "Western Africa",
     "population": 3718678,
     "latlng": [
-      20,
-      -12
+      20.0,
+      -12.0
     ],
     "demonym": "Mauritanian",
-    "area": 1030700,
+    "area": 1030700.0,
     "gini": 40.5,
     "timezones": [
       "UTC"
@@ -10871,7 +11600,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -10883,7 +11614,9 @@
       {
         "acronym": "AL",
         "name": "Arab League",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "جامعة الدول العربية",
           "Jāmiʻat ad-Duwal al-ʻArabīyah",
@@ -10917,12 +11650,14 @@
       57.55
     ],
     "demonym": "Mauritian",
-    "area": 2040,
+    "area": 2040.0,
     "gini": null,
     "timezones": [
       "UTC+04:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Maurice",
     "numericCode": "480",
     "currencies": [
@@ -10957,7 +11692,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -10998,7 +11735,9 @@
     "timezones": [
       "UTC+03:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Mayotte",
     "numericCode": "175",
     "currencies": [
@@ -11033,7 +11772,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -11066,12 +11807,12 @@
     "subregion": "Central America",
     "population": 122273473,
     "latlng": [
-      23,
-      -102
+      23.0,
+      -102.0
     ],
     "demonym": "Mexican",
-    "area": 1964375,
-    "gini": 47,
+    "area": 1964375.0,
+    "gini": 47.0,
     "timezones": [
       "UTC-08:00",
       "UTC-07:00",
@@ -11116,7 +11857,9 @@
       {
         "acronym": "PA",
         "name": "Pacific Alliance",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "Alianza del Pacífico"
         ]
@@ -11124,7 +11867,9 @@
       {
         "acronym": "NAFTA",
         "name": "North American Free Trade Agreement",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "Tratado de Libre Comercio de América del Norte",
           "Accord de Libre-échange Nord-Américain"
@@ -11156,13 +11901,15 @@
       158.25
     ],
     "demonym": "Micronesian",
-    "area": 702,
+    "area": 702.0,
     "gini": null,
     "timezones": [
       "UTC+10:00",
       "UTC+11"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Micronesia",
     "numericCode": "583",
     "currencies": [
@@ -11198,7 +11945,9 @@
       "fa": "ایالات فدرال میکرونزی"
     },
     "flag": "https://restcountries.eu/data/fsm.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "FSM"
   },
   {
@@ -11221,12 +11970,12 @@
     "subregion": "Eastern Europe",
     "population": 3553100,
     "latlng": [
-      47,
-      29
+      47.0,
+      29.0
     ],
     "demonym": "Moldovan",
-    "area": 33846,
-    "gini": 33,
+    "area": 33846.0,
+    "gini": 33.0,
     "timezones": [
       "UTC+02:00"
     ],
@@ -11268,8 +12017,12 @@
       {
         "acronym": "CEFTA",
         "name": "Central European Free Trade Agreement",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "MDA"
@@ -11336,7 +12089,9 @@
       "fa": "موناکو"
     },
     "flag": "https://restcountries.eu/data/mco.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "MON"
   },
   {
@@ -11357,11 +12112,11 @@
     "subregion": "Eastern Asia",
     "population": 3093100,
     "latlng": [
-      46,
-      105
+      46.0,
+      105.0
     ],
     "demonym": "Mongolian",
-    "area": 1564110,
+    "area": 1564110.0,
     "gini": 36.5,
     "timezones": [
       "UTC+07:00",
@@ -11401,7 +12156,9 @@
       "fa": "مغولستان"
     },
     "flag": "https://restcountries.eu/data/mng.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "MGL"
   },
   {
@@ -11427,8 +12184,8 @@
       19.3
     ],
     "demonym": "Montenegrin",
-    "area": 13812,
-    "gini": 30,
+    "area": 13812.0,
+    "gini": 30.0,
     "timezones": [
       "UTC+01:00"
     ],
@@ -11491,8 +12248,12 @@
       {
         "acronym": "CEFTA",
         "name": "Central European Free Trade Agreement",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "MNE"
@@ -11519,12 +12280,14 @@
       -62.2
     ],
     "demonym": "Montserratian",
-    "area": 102,
+    "area": 102.0,
     "gini": null,
     "timezones": [
       "UTC-04:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Montserrat",
     "numericCode": "500",
     "currencies": [
@@ -11559,7 +12322,9 @@
       {
         "acronym": "CARICOM",
         "name": "Caribbean Community",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "Comunidad del Caribe",
           "Communauté Caribéenne",
@@ -11589,11 +12354,11 @@
     "subregion": "Northern Africa",
     "population": 33337529,
     "latlng": [
-      32,
-      -5
+      32.0,
+      -5.0
     ],
     "demonym": "Moroccan",
-    "area": 446550,
+    "area": 446550.0,
     "gini": 40.9,
     "timezones": [
       "UTC"
@@ -11637,7 +12402,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -11649,7 +12416,9 @@
       {
         "acronym": "AL",
         "name": "Arab League",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "جامعة الدول العربية",
           "Jāmiʻat ad-Duwal al-ʻArabīyah",
@@ -11680,10 +12449,10 @@
     "population": 26423700,
     "latlng": [
       -18.25,
-      35
+      35.0
     ],
     "demonym": "Mozambican",
-    "area": 801590,
+    "area": 801590.0,
     "gini": 45.7,
     "timezones": [
       "UTC+02:00"
@@ -11730,7 +12499,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -11763,11 +12534,11 @@
     "subregion": "South-Eastern Asia",
     "population": 51419420,
     "latlng": [
-      22,
-      98
+      22.0,
+      98.0
     ],
     "demonym": "Burmese",
-    "area": 676578,
+    "area": 676578.0,
     "gini": null,
     "timezones": [
       "UTC+06:30"
@@ -11813,8 +12584,12 @@
       {
         "acronym": "ASEAN",
         "name": "Association of Southeast Asian Nations",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "MYA"
@@ -11839,11 +12614,11 @@
     "subregion": "Southern Africa",
     "population": 2324388,
     "latlng": [
-      -22,
-      17
+      -22.0,
+      17.0
     ],
     "demonym": "Namibian",
-    "area": 825615,
+    "area": 825615.0,
     "gini": 63.9,
     "timezones": [
       "UTC+01:00"
@@ -11899,7 +12674,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -11937,12 +12714,14 @@
       166.91666666
     ],
     "demonym": "Nauruan",
-    "area": 21,
+    "area": 21.0,
     "gini": null,
     "timezones": [
       "UTC+12:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Nauru",
     "numericCode": "520",
     "currencies": [
@@ -11984,7 +12763,9 @@
       "fa": "نائورو"
     },
     "flag": "https://restcountries.eu/data/nru.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "NRU"
   },
   {
@@ -12007,11 +12788,11 @@
     "subregion": "Southern Asia",
     "population": 28431500,
     "latlng": [
-      28,
-      84
+      28.0,
+      84.0
     ],
     "demonym": "Nepalese",
-    "area": 147181,
+    "area": 147181.0,
     "gini": 32.8,
     "timezones": [
       "UTC+05:45"
@@ -12054,8 +12835,12 @@
       {
         "acronym": "SAARC",
         "name": "South Asian Association for Regional Cooperation",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "NEP"
@@ -12084,7 +12869,7 @@
       5.75
     ],
     "demonym": "Dutch",
-    "area": 41850,
+    "area": 41850.0,
     "gini": 30.9,
     "timezones": [
       "UTC-04:00",
@@ -12128,8 +12913,12 @@
       {
         "acronym": "EU",
         "name": "European Union",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "NED"
@@ -12156,12 +12945,14 @@
       165.5
     ],
     "demonym": "New Caledonian",
-    "area": 18575,
+    "area": 18575.0,
     "gini": null,
     "timezones": [
       "UTC+11:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Nouvelle-Calédonie",
     "numericCode": "540",
     "currencies": [
@@ -12192,7 +12983,9 @@
       "fa": "کالدونیای جدید"
     },
     "flag": "https://restcountries.eu/data/ncl.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": ""
   },
   {
@@ -12214,11 +13007,11 @@
     "subregion": "Australia and New Zealand",
     "population": 4697854,
     "latlng": [
-      -41,
-      174
+      -41.0,
+      174.0
     ],
     "demonym": "New Zealander",
-    "area": 270467,
+    "area": 270467.0,
     "gini": 36.2,
     "timezones": [
       "UTC-11:00",
@@ -12227,7 +13020,9 @@
       "UTC+12:45",
       "UTC+13:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "New Zealand",
     "numericCode": "554",
     "currencies": [
@@ -12264,7 +13059,9 @@
       "fa": "نیوزیلند"
     },
     "flag": "https://restcountries.eu/data/nzl.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "NZL"
   },
   {
@@ -12287,11 +13084,11 @@
     "subregion": "Central America",
     "population": 6262703,
     "latlng": [
-      13,
-      -85
+      13.0,
+      -85.0
     ],
     "demonym": "Nicaraguan",
-    "area": 130373,
+    "area": 130373.0,
     "gini": 40.5,
     "timezones": [
       "UTC-06:00"
@@ -12365,11 +13162,11 @@
     "subregion": "Western Africa",
     "population": 20715000,
     "latlng": [
-      16,
-      8
+      16.0,
+      8.0
     ],
     "demonym": "Nigerien",
-    "area": 1267000,
+    "area": 1267000.0,
     "gini": 34.6,
     "timezones": [
       "UTC+01:00"
@@ -12417,7 +13214,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -12450,11 +13249,11 @@
     "subregion": "Western Africa",
     "population": 186988000,
     "latlng": [
-      10,
-      8
+      10.0,
+      8.0
     ],
     "demonym": "Nigerian",
-    "area": 923768,
+    "area": 923768.0,
     "gini": 48.8,
     "timezones": [
       "UTC+01:00"
@@ -12499,7 +13298,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -12533,12 +13334,14 @@
       -169.86666666
     ],
     "demonym": "Niuean",
-    "area": 260,
+    "area": 260.0,
     "gini": null,
     "timezones": [
       "UTC-11:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Niuē",
     "numericCode": "570",
     "currencies": [
@@ -12574,7 +13377,9 @@
       "fa": "نیووی"
     },
     "flag": "https://restcountries.eu/data/niu.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": ""
   },
   {
@@ -12601,12 +13406,14 @@
       167.95
     ],
     "demonym": "Norfolk Islander",
-    "area": 36,
+    "area": 36.0,
     "gini": null,
     "timezones": [
       "UTC+11:30"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Norfolk Island",
     "numericCode": "574",
     "currencies": [
@@ -12637,8 +13444,80 @@
       "fa": "جزیره نورفک"
     },
     "flag": "https://restcountries.eu/data/nfk.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": ""
+  },
+  {
+    "name": "Korea (Democratic People's Republic of)",
+    "topLevelDomain": [
+      ".kp"
+    ],
+    "alpha2Code": "KP",
+    "alpha3Code": "PRK",
+    "callingCodes": [
+      "850"
+    ],
+    "capital": "Pyongyang",
+    "altSpellings": [
+      "KP",
+      "Democratic People's Republic of Korea",
+      "조선민주주의인민공화국",
+      "Chosŏn Minjujuŭi Inmin Konghwaguk"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 25281000,
+    "latlng": [
+      40.0,
+      127.0
+    ],
+    "demonym": "North Korean",
+    "area": 120538.0,
+    "gini": null,
+    "timezones": [
+      "UTC+09:00"
+    ],
+    "borders": [
+      "CHN",
+      "KOR",
+      "RUS"
+    ],
+    "nativeName": "북한",
+    "numericCode": "408",
+    "currencies": [
+      {
+        "code": "KPW",
+        "name": "North Korean won",
+        "symbol": "₩"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "ko",
+        "iso639_2": "kor",
+        "name": "Korean",
+        "nativeName": "한국어"
+      }
+    ],
+    "translations": {
+      "de": "Nordkorea",
+      "es": "Corea del Norte",
+      "fr": "Corée du Nord",
+      "ja": "朝鮮民主主義人民共和国",
+      "it": "Corea del Nord",
+      "br": "Coreia do Norte",
+      "pt": "Coreia do Norte",
+      "nl": "Noord-Korea",
+      "hr": "Sjeverna Koreja",
+      "fa": "کره جنوبی"
+    },
+    "flag": "https://restcountries.eu/data/prk.svg",
+    "regionalBlocs": [
+      
+    ],
+    "cioc": "PRK"
   },
   {
     "name": "Northern Mariana Islands",
@@ -12664,12 +13543,14 @@
       145.75
     ],
     "demonym": "American",
-    "area": 464,
+    "area": 464.0,
     "gini": null,
     "timezones": [
       "UTC+10:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Northern Mariana Islands",
     "numericCode": "580",
     "currencies": [
@@ -12706,7 +13587,9 @@
       "fa": "جزایر ماریانای شمالی"
     },
     "flag": "https://restcountries.eu/data/mnp.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": ""
   },
   {
@@ -12732,11 +13615,11 @@
     "subregion": "Northern Europe",
     "population": 5223256,
     "latlng": [
-      62,
-      10
+      62.0,
+      10.0
     ],
     "demonym": "Norwegian",
-    "area": 323802,
+    "area": 323802.0,
     "gini": 25.8,
     "timezones": [
       "UTC+01:00"
@@ -12792,8 +13675,12 @@
       {
         "acronym": "EFTA",
         "name": "European Free Trade Association",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "NOR"
@@ -12818,11 +13705,11 @@
     "subregion": "Western Asia",
     "population": 4420133,
     "latlng": [
-      21,
-      57
+      21.0,
+      57.0
     ],
     "demonym": "Omani",
-    "area": 309500,
+    "area": 309500.0,
     "gini": null,
     "timezones": [
       "UTC+04:00"
@@ -12866,7 +13753,9 @@
       {
         "acronym": "AL",
         "name": "Arab League",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "جامعة الدول العربية",
           "Jāmiʻat ad-Duwal al-ʻArabīyah",
@@ -12897,12 +13786,12 @@
     "subregion": "Southern Asia",
     "population": 194125062,
     "latlng": [
-      30,
-      70
+      30.0,
+      70.0
     ],
     "demonym": "Pakistani",
-    "area": 881912,
-    "gini": 30,
+    "area": 881912.0,
+    "gini": 30.0,
     "timezones": [
       "UTC+05:00"
     ],
@@ -12952,8 +13841,12 @@
       {
         "acronym": "SAARC",
         "name": "South Asian Association for Regional Cooperation",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "PAK"
@@ -12982,12 +13875,14 @@
       134.5
     ],
     "demonym": "Palauan",
-    "area": 459,
+    "area": 459.0,
     "gini": null,
     "timezones": [
       "UTC+09:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Palau",
     "numericCode": "585",
     "currencies": [
@@ -13023,7 +13918,9 @@
       "fa": "پالائو"
     },
     "flag": "https://restcountries.eu/data/plw.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "PLW"
   },
   {
@@ -13094,7 +13991,9 @@
       {
         "acronym": "AL",
         "name": "Arab League",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "جامعة الدول العربية",
           "Jāmiʻat ad-Duwal al-ʻArabīyah",
@@ -13124,11 +14023,11 @@
     "subregion": "Central America",
     "population": 3814672,
     "latlng": [
-      9,
-      -80
+      9.0,
+      -80.0
     ],
     "demonym": "Panamanian",
-    "area": 75417,
+    "area": 75417.0,
     "gini": 51.9,
     "timezones": [
       "UTC-05:00"
@@ -13206,11 +14105,11 @@
     "subregion": "Melanesia",
     "population": 8083700,
     "latlng": [
-      -6,
-      147
+      -6.0,
+      147.0
     ],
     "demonym": "Papua New Guinean",
-    "area": 462840,
+    "area": 462840.0,
     "gini": 50.9,
     "timezones": [
       "UTC+10:00"
@@ -13248,7 +14147,9 @@
       "fa": "پاپوآ گینه نو"
     },
     "flag": "https://restcountries.eu/data/png.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "PNG"
   },
   {
@@ -13272,11 +14173,11 @@
     "subregion": "South America",
     "population": 6854536,
     "latlng": [
-      -23,
-      -58
+      -23.0,
+      -58.0
     ],
     "demonym": "Paraguayan",
-    "area": 406752,
+    "area": 406752.0,
     "gini": 52.4,
     "timezones": [
       "UTC-04:00"
@@ -13361,11 +14262,11 @@
     "subregion": "South America",
     "population": 31488700,
     "latlng": [
-      -10,
-      -76
+      -10.0,
+      -76.0
     ],
     "demonym": "Peruvian",
-    "area": 1285216,
+    "area": 1285216.0,
     "gini": 48.1,
     "timezones": [
       "UTC-05:00"
@@ -13411,7 +14312,9 @@
       {
         "acronym": "PA",
         "name": "Pacific Alliance",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "Alianza del Pacífico"
         ]
@@ -13454,16 +14357,18 @@
     "subregion": "South-Eastern Asia",
     "population": 103279800,
     "latlng": [
-      13,
-      122
+      13.0,
+      122.0
     ],
     "demonym": "Filipino",
-    "area": 342353,
-    "gini": 43,
+    "area": 342353.0,
+    "gini": 43.0,
     "timezones": [
       "UTC+08:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Pilipinas",
     "numericCode": "608",
     "currencies": [
@@ -13498,8 +14403,12 @@
       {
         "acronym": "ASEAN",
         "name": "Association of Southeast Asian Nations",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "PHI"
@@ -13527,12 +14436,14 @@
       -130.1
     ],
     "demonym": "Pitcairn Islander",
-    "area": 47,
+    "area": 47.0,
     "gini": null,
     "timezones": [
       "UTC-08:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Pitcairn Islands",
     "numericCode": "612",
     "currencies": [
@@ -13568,7 +14479,9 @@
       "fa": "پیتکرن"
     },
     "flag": "https://restcountries.eu/data/pcn.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": ""
   },
   {
@@ -13591,11 +14504,11 @@
     "subregion": "Eastern Europe",
     "population": 38437239,
     "latlng": [
-      52,
-      20
+      52.0,
+      20.0
     ],
     "demonym": "Polish",
-    "area": 312679,
+    "area": 312679.0,
     "gini": 34.1,
     "timezones": [
       "UTC+01:00"
@@ -13643,8 +14556,12 @@
       {
         "acronym": "EU",
         "name": "European Union",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "POL"
@@ -13671,10 +14588,10 @@
     "population": 10374822,
     "latlng": [
       39.5,
-      -8
+      -8.0
     ],
     "demonym": "Portuguese",
-    "area": 92090,
+    "area": 92090.0,
     "gini": 38.5,
     "timezones": [
       "UTC-01:00",
@@ -13717,8 +14634,12 @@
       {
         "acronym": "EU",
         "name": "European Union",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "POR"
@@ -13748,12 +14669,14 @@
       -66.5
     ],
     "demonym": "Puerto Rican",
-    "area": 8870,
+    "area": 8870.0,
     "gini": null,
     "timezones": [
       "UTC-04:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Puerto Rico",
     "numericCode": "630",
     "currencies": [
@@ -13790,7 +14713,9 @@
       "fa": "پورتو ریکو"
     },
     "flag": "https://restcountries.eu/data/pri.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "PUR"
   },
   {
@@ -13817,7 +14742,7 @@
       51.25
     ],
     "demonym": "Qatari",
-    "area": 11586,
+    "area": 11586.0,
     "gini": 41.1,
     "timezones": [
       "UTC+03:00"
@@ -13859,7 +14784,9 @@
       {
         "acronym": "AL",
         "name": "Arab League",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "جامعة الدول العربية",
           "Jāmiʻat ad-Duwal al-ʻArabīyah",
@@ -13892,7 +14819,7 @@
       21.166667
     ],
     "demonym": "Kosovar",
-    "area": 10908,
+    "area": 10908.0,
     "gini": null,
     "timezones": [
       "UTC+01:00"
@@ -13943,11 +14870,94 @@
       {
         "acronym": "CEFTA",
         "name": "Central European Free Trade Agreement",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": null
+  },
+  {
+    "name": "Réunion",
+    "topLevelDomain": [
+      ".re"
+    ],
+    "alpha2Code": "RE",
+    "alpha3Code": "REU",
+    "callingCodes": [
+      "262"
+    ],
+    "capital": "Saint-Denis",
+    "altSpellings": [
+      "RE",
+      "Reunion"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "population": 840974,
+    "latlng": [
+      -21.15,
+      55.5
+    ],
+    "demonym": "French",
+    "area": null,
+    "gini": null,
+    "timezones": [
+      "UTC+04:00"
+    ],
+    "borders": [
+      
+    ],
+    "nativeName": "La Réunion",
+    "numericCode": "638",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "translations": {
+      "de": "Réunion",
+      "es": "Reunión",
+      "fr": "Réunion",
+      "ja": "レユニオン",
+      "it": "Riunione",
+      "br": "Reunião",
+      "pt": "Reunião",
+      "nl": "Réunion",
+      "hr": "Réunion",
+      "fa": "رئونیون"
+    },
+    "flag": "https://restcountries.eu/data/reu.svg",
+    "regionalBlocs": [
+      {
+        "acronym": "AU",
+        "name": "African Union",
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          "الاتحاد الأفريقي",
+          "Union africaine",
+          "União Africana",
+          "Unión Africana",
+          "Umoja wa Afrika"
+        ]
+      }
+    ],
+    "cioc": ""
   },
   {
     "name": "Romania",
@@ -13970,12 +14980,12 @@
     "subregion": "Eastern Europe",
     "population": 19861408,
     "latlng": [
-      46,
-      25
+      46.0,
+      25.0
     ],
     "demonym": "Romanian",
-    "area": 238391,
-    "gini": 30,
+    "area": 238391.0,
+    "gini": 30.0,
     "timezones": [
       "UTC+02:00"
     ],
@@ -14020,8 +15030,12 @@
       {
         "acronym": "EU",
         "name": "European Union",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "ROU"
@@ -14048,8 +15062,8 @@
     "subregion": "Eastern Europe",
     "population": 146599183,
     "latlng": [
-      60,
-      100
+      60.0,
+      100.0
     ],
     "demonym": "Russian",
     "area": 17124442,
@@ -14118,7 +15132,9 @@
         "otherAcronyms": [
           "EAEU"
         ],
-        "otherNames": []
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "RUS"
@@ -14144,11 +15160,11 @@
     "subregion": "Eastern Africa",
     "population": 11553188,
     "latlng": [
-      -2,
-      30
+      -2.0,
+      30.0
     ],
     "demonym": "Rwandan",
-    "area": 26338,
+    "area": 26338.0,
     "gini": 50.8,
     "timezones": [
       "UTC+02:00"
@@ -14205,7 +15221,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -14216,81 +15234,6 @@
       }
     ],
     "cioc": "RWA"
-  },
-  {
-    "name": "Réunion",
-    "topLevelDomain": [
-      ".re"
-    ],
-    "alpha2Code": "RE",
-    "alpha3Code": "REU",
-    "callingCodes": [
-      "262"
-    ],
-    "capital": "Saint-Denis",
-    "altSpellings": [
-      "RE",
-      "Reunion"
-    ],
-    "region": "Africa",
-    "subregion": "Eastern Africa",
-    "population": 840974,
-    "latlng": [
-      -21.15,
-      55.5
-    ],
-    "demonym": "French",
-    "area": null,
-    "gini": null,
-    "timezones": [
-      "UTC+04:00"
-    ],
-    "borders": [],
-    "nativeName": "La Réunion",
-    "numericCode": "638",
-    "currencies": [
-      {
-        "code": "EUR",
-        "name": "Euro",
-        "symbol": "€"
-      }
-    ],
-    "languages": [
-      {
-        "iso639_1": "fr",
-        "iso639_2": "fra",
-        "name": "French",
-        "nativeName": "français"
-      }
-    ],
-    "translations": {
-      "de": "Réunion",
-      "es": "Reunión",
-      "fr": "Réunion",
-      "ja": "レユニオン",
-      "it": "Riunione",
-      "br": "Reunião",
-      "pt": "Reunião",
-      "nl": "Réunion",
-      "hr": "Réunion",
-      "fa": "رئونیون"
-    },
-    "flag": "https://restcountries.eu/data/reu.svg",
-    "regionalBlocs": [
-      {
-        "acronym": "AU",
-        "name": "African Union",
-        "otherAcronyms": [],
-        "otherNames": [
-          "الاتحاد الأفريقي",
-          "Union africaine",
-          "União Africana",
-          "Unión Africana",
-          "Umoja wa Afrika"
-        ]
-      }
-    ],
-    "cioc": ""
   },
   {
     "name": "Saint Barthélemy",
@@ -14317,12 +15260,14 @@
       -63.41666666
     ],
     "demonym": "Saint Barthélemy Islander",
-    "area": 21,
+    "area": 21.0,
     "gini": null,
     "timezones": [
       "UTC-04:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Saint-Barthélemy",
     "numericCode": "652",
     "currencies": [
@@ -14353,7 +15298,9 @@
       "fa": "سن-بارتلمی"
     },
     "flag": "https://restcountries.eu/data/blm.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": ""
   },
   {
@@ -14383,7 +15330,9 @@
     "timezones": [
       "UTC+00:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Saint Helena",
     "numericCode": "654",
     "currencies": [
@@ -14418,7 +15367,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -14453,12 +15404,14 @@
       -62.75
     ],
     "demonym": "Kittian and Nevisian",
-    "area": 261,
+    "area": 261.0,
     "gini": null,
     "timezones": [
       "UTC-04:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Saint Kitts and Nevis",
     "numericCode": "659",
     "currencies": [
@@ -14493,7 +15446,9 @@
       {
         "acronym": "CARICOM",
         "name": "Caribbean Community",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "Comunidad del Caribe",
           "Communauté Caribéenne",
@@ -14525,12 +15480,14 @@
       -60.96666666
     ],
     "demonym": "Saint Lucian",
-    "area": 616,
+    "area": 616.0,
     "gini": 42.6,
     "timezones": [
       "UTC-04:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Saint Lucia",
     "numericCode": "662",
     "currencies": [
@@ -14565,7 +15522,9 @@
       {
         "acronym": "CARICOM",
         "name": "Caribbean Community",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "Comunidad del Caribe",
           "Communauté Caribéenne",
@@ -14601,7 +15560,7 @@
       -63.95
     ],
     "demonym": "Saint Martin Islander",
-    "area": 53,
+    "area": 53.0,
     "gini": null,
     "timezones": [
       "UTC-04:00"
@@ -14652,7 +15611,9 @@
       "fa": "سینت مارتن"
     },
     "flag": "https://restcountries.eu/data/maf.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": ""
   },
   {
@@ -14678,12 +15639,14 @@
       -56.33333333
     ],
     "demonym": "French",
-    "area": 242,
+    "area": 242.0,
     "gini": null,
     "timezones": [
       "UTC-03:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Saint-Pierre-et-Miquelon",
     "numericCode": "666",
     "currencies": [
@@ -14714,7 +15677,9 @@
       "fa": "سن پیر و میکلن"
     },
     "flag": "https://restcountries.eu/data/spm.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": ""
   },
   {
@@ -14739,12 +15704,14 @@
       -61.2
     ],
     "demonym": "Saint Vincentian",
-    "area": 389,
+    "area": 389.0,
     "gini": null,
     "timezones": [
       "UTC-04:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Saint Vincent and the Grenadines",
     "numericCode": "670",
     "currencies": [
@@ -14779,7 +15746,9 @@
       {
         "acronym": "CARICOM",
         "name": "Caribbean Community",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "Comunidad del Caribe",
           "Communauté Caribéenne",
@@ -14813,12 +15782,14 @@
       -172.33333333
     ],
     "demonym": "Samoan",
-    "area": 2842,
+    "area": 2842.0,
     "gini": null,
     "timezones": [
       "UTC+13:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Samoa",
     "numericCode": "882",
     "currencies": [
@@ -14855,7 +15826,9 @@
       "fa": "ساموآ"
     },
     "flag": "https://restcountries.eu/data/wsm.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "SAM"
   },
   {
@@ -14882,7 +15855,7 @@
       12.41666666
     ],
     "demonym": "Sammarinese",
-    "area": 61,
+    "area": 61.0,
     "gini": null,
     "timezones": [
       "UTC+01:00"
@@ -14920,7 +15893,9 @@
       "fa": "سان مارینو"
     },
     "flag": "https://restcountries.eu/data/smr.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "SMR"
   },
   {
@@ -14943,16 +15918,18 @@
     "subregion": "Middle Africa",
     "population": 187356,
     "latlng": [
-      1,
-      7
+      1.0,
+      7.0
     ],
     "demonym": "Sao Tomean",
-    "area": 964,
+    "area": 964.0,
     "gini": 50.8,
     "timezones": [
       "UTC"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "São Tomé e Príncipe",
     "numericCode": "678",
     "currencies": [
@@ -14987,7 +15964,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -15019,11 +15998,11 @@
     "subregion": "Western Asia",
     "population": 32248200,
     "latlng": [
-      25,
-      45
+      25.0,
+      45.0
     ],
     "demonym": "Saudi Arabian",
-    "area": 2149690,
+    "area": 2149690.0,
     "gini": null,
     "timezones": [
       "UTC+03:00"
@@ -15071,7 +16050,9 @@
       {
         "acronym": "AL",
         "name": "Arab League",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "جامعة الدول العربية",
           "Jāmiʻat ad-Duwal al-ʻArabīyah",
@@ -15101,11 +16082,11 @@
     "subregion": "Western Africa",
     "population": 14799859,
     "latlng": [
-      14,
-      -14
+      14.0,
+      -14.0
     ],
     "demonym": "Senegalese",
-    "area": 196722,
+    "area": 196722.0,
     "gini": 39.2,
     "timezones": [
       "UTC"
@@ -15151,7 +16132,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -15185,11 +16168,11 @@
     "subregion": "Southern Europe",
     "population": 7076372,
     "latlng": [
-      44,
-      21
+      44.0,
+      21.0
     ],
     "demonym": "Serbian",
-    "area": 88361,
+    "area": 88361.0,
     "gini": 27.8,
     "timezones": [
       "UTC+01:00"
@@ -15238,8 +16221,12 @@
       {
         "acronym": "CEFTA",
         "name": "Central European Free Trade Agreement",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "SRB"
@@ -15269,12 +16256,14 @@
       55.66666666
     ],
     "demonym": "Seychellois",
-    "area": 452,
+    "area": 452.0,
     "gini": 65.8,
     "timezones": [
       "UTC+04:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Seychelles",
     "numericCode": "690",
     "currencies": [
@@ -15315,7 +16304,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -15350,7 +16341,7 @@
       -11.5
     ],
     "demonym": "Sierra Leonean",
-    "area": 71740,
+    "area": 71740.0,
     "gini": 42.5,
     "timezones": [
       "UTC"
@@ -15393,7 +16384,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -15430,12 +16423,14 @@
       103.8
     ],
     "demonym": "Singaporean",
-    "area": 710,
+    "area": 710.0,
     "gini": 48.1,
     "timezones": [
       "UTC+08:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Singapore",
     "numericCode": "702",
     "currencies": [
@@ -15493,8 +16488,12 @@
       {
         "acronym": "ASEAN",
         "name": "Association of Southeast Asian Nations",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "SIN"
@@ -15521,7 +16520,7 @@
       -63.05
     ],
     "demonym": "Dutch",
-    "area": 34,
+    "area": 34.0,
     "gini": null,
     "timezones": [
       "UTC-04:00"
@@ -15565,7 +16564,9 @@
       "fa": "سینت مارتن"
     },
     "flag": "https://restcountries.eu/data/sxm.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": ""
   },
   {
@@ -15592,8 +16593,8 @@
       19.5
     ],
     "demonym": "Slovak",
-    "area": 49037,
-    "gini": 26,
+    "area": 49037.0,
+    "gini": 26.0,
     "timezones": [
       "UTC+01:00"
     ],
@@ -15638,8 +16639,12 @@
       {
         "acronym": "EU",
         "name": "European Union",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "SVK"
@@ -15668,7 +16673,7 @@
       14.81666666
     ],
     "demonym": "Slovene",
-    "area": 20273,
+    "area": 20273.0,
     "gini": 31.2,
     "timezones": [
       "UTC+01:00"
@@ -15713,8 +16718,12 @@
       {
         "acronym": "EU",
         "name": "European Union",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "SLO"
@@ -15737,16 +16746,18 @@
     "subregion": "Melanesia",
     "population": 642000,
     "latlng": [
-      -8,
-      159
+      -8.0,
+      159.0
     ],
     "demonym": "Solomon Islander",
-    "area": 28896,
+    "area": 28896.0,
     "gini": null,
     "timezones": [
       "UTC+11:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Solomon Islands",
     "numericCode": "090",
     "currencies": [
@@ -15777,7 +16788,9 @@
       "fa": "جزایر سلیمان"
     },
     "flag": "https://restcountries.eu/data/slb.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "SOL"
   },
   {
@@ -15802,11 +16815,11 @@
     "subregion": "Eastern Africa",
     "population": 11079000,
     "latlng": [
-      10,
-      49
+      10.0,
+      49.0
     ],
     "demonym": "Somali",
-    "area": 637657,
+    "area": 637657.0,
     "gini": null,
     "timezones": [
       "UTC+03:00"
@@ -15856,7 +16869,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -15868,7 +16883,9 @@
       {
         "acronym": "AL",
         "name": "Arab League",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "جامعة الدول العربية",
           "Jāmiʻat ad-Duwal al-ʻArabīyah",
@@ -15899,11 +16916,11 @@
     "subregion": "Southern Africa",
     "population": 55653654,
     "latlng": [
-      -29,
-      24
+      -29.0,
+      24.0
     ],
     "demonym": "South African",
-    "area": 1221037,
+    "area": 1221037.0,
     "gini": 63.1,
     "timezones": [
       "UTC+02:00"
@@ -16004,7 +17021,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -16036,7 +17055,7 @@
     "population": 30,
     "latlng": [
       -54.5,
-      -37
+      -37.0
     ],
     "demonym": "South Georgia and the South Sandwich Islander",
     "area": null,
@@ -16044,7 +17063,9 @@
     "timezones": [
       "UTC-02:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "South Georgia",
     "numericCode": "239",
     "currencies": [
@@ -16100,6 +17121,72 @@
     "cioc": ""
   },
   {
+    "name": "Korea (Republic of)",
+    "topLevelDomain": [
+      ".kr"
+    ],
+    "alpha2Code": "KR",
+    "alpha3Code": "KOR",
+    "callingCodes": [
+      "82"
+    ],
+    "capital": "Seoul",
+    "altSpellings": [
+      "KR",
+      "Republic of Korea"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 50801405,
+    "latlng": [
+      37.0,
+      127.5
+    ],
+    "demonym": "South Korean",
+    "area": 100210.0,
+    "gini": 31.3,
+    "timezones": [
+      "UTC+09:00"
+    ],
+    "borders": [
+      "PRK"
+    ],
+    "nativeName": "대한민국",
+    "numericCode": "410",
+    "currencies": [
+      {
+        "code": "KRW",
+        "name": "South Korean won",
+        "symbol": "₩"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "ko",
+        "iso639_2": "kor",
+        "name": "Korean",
+        "nativeName": "한국어"
+      }
+    ],
+    "translations": {
+      "de": "Südkorea",
+      "es": "Corea del Sur",
+      "fr": "Corée du Sud",
+      "ja": "大韓民国",
+      "it": "Corea del Sud",
+      "br": "Coreia do Sul",
+      "pt": "Coreia do Sul",
+      "nl": "Zuid-Korea",
+      "hr": "Južna Koreja",
+      "fa": "کره شمالی"
+    },
+    "flag": "https://restcountries.eu/data/kor.svg",
+    "regionalBlocs": [
+      
+    ],
+    "cioc": "KOR"
+  },
+  {
     "name": "South Sudan",
     "topLevelDomain": [
       ".ss"
@@ -16117,11 +17204,11 @@
     "subregion": "Middle Africa",
     "population": 12131000,
     "latlng": [
-      7,
-      30
+      7.0,
+      30.0
     ],
     "demonym": "South Sudanese",
-    "area": 619745,
+    "area": 619745.0,
     "gini": 45.5,
     "timezones": [
       "UTC+03:00"
@@ -16168,7 +17255,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -16179,6 +17268,87 @@
       }
     ],
     "cioc": ""
+  },
+  {
+    "name": "Spain",
+    "topLevelDomain": [
+      ".es"
+    ],
+    "alpha2Code": "ES",
+    "alpha3Code": "ESP",
+    "callingCodes": [
+      "34"
+    ],
+    "capital": "Madrid",
+    "altSpellings": [
+      "ES",
+      "Kingdom of Spain",
+      "Reino de España"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 46438422,
+    "latlng": [
+      40.0,
+      -4.0
+    ],
+    "demonym": "Spanish",
+    "area": 505992.0,
+    "gini": 34.7,
+    "timezones": [
+      "UTC",
+      "UTC+01:00"
+    ],
+    "borders": [
+      "AND",
+      "FRA",
+      "GIB",
+      "PRT",
+      "MAR"
+    ],
+    "nativeName": "España",
+    "numericCode": "724",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "translations": {
+      "de": "Spanien",
+      "es": "España",
+      "fr": "Espagne",
+      "ja": "スペイン",
+      "it": "Spagna",
+      "br": "Espanha",
+      "pt": "Espanha",
+      "nl": "Spanje",
+      "hr": "Španjolska",
+      "fa": "اسپانیا"
+    },
+    "flag": "https://restcountries.eu/data/esp.svg",
+    "regionalBlocs": [
+      {
+        "acronym": "EU",
+        "name": "European Union",
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
+      }
+    ],
+    "cioc": "ESP"
   },
   {
     "name": "Sri Lanka",
@@ -16200,11 +17370,11 @@
     "subregion": "Southern Asia",
     "population": 20966000,
     "latlng": [
-      7,
-      81
+      7.0,
+      81.0
     ],
     "demonym": "Sri Lankan",
-    "area": 65610,
+    "area": 65610.0,
     "gini": 40.3,
     "timezones": [
       "UTC+05:30"
@@ -16252,8 +17422,12 @@
       {
         "acronym": "SAARC",
         "name": "South Asian Association for Regional Cooperation",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "SRI"
@@ -16278,11 +17452,11 @@
     "subregion": "Northern Africa",
     "population": 39598700,
     "latlng": [
-      15,
-      30
+      15.0,
+      30.0
     ],
     "demonym": "Sudanese",
-    "area": 1886068,
+    "area": 1886068.0,
     "gini": 35.3,
     "timezones": [
       "UTC+03:00"
@@ -16336,7 +17510,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -16348,7 +17524,9 @@
       {
         "acronym": "AL",
         "name": "Arab League",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "جامعة الدول العربية",
           "Jāmiʻat ad-Duwal al-ʻArabīyah",
@@ -16380,11 +17558,11 @@
     "subregion": "South America",
     "population": 541638,
     "latlng": [
-      4,
-      -56
+      4.0,
+      -56.0
     ],
     "demonym": "Surinamer",
-    "area": 163820,
+    "area": 163820.0,
     "gini": 52.9,
     "timezones": [
       "UTC-03:00"
@@ -16429,7 +17607,9 @@
       {
         "acronym": "CARICOM",
         "name": "Caribbean Community",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "Comunidad del Caribe",
           "Communauté Caribéenne",
@@ -16473,8 +17653,8 @@
     "subregion": "Northern Europe",
     "population": 2562,
     "latlng": [
-      78,
-      20
+      78.0,
+      20.0
     ],
     "demonym": "Norwegian",
     "area": null,
@@ -16482,7 +17662,9 @@
     "timezones": [
       "UTC+01:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Svalbard og Jan Mayen",
     "numericCode": "744",
     "currencies": [
@@ -16513,7 +17695,9 @@
       "fa": "سوالبارد و یان ماین"
     },
     "flag": "https://restcountries.eu/data/sjm.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": ""
   },
   {
@@ -16543,7 +17727,7 @@
       31.5
     ],
     "demonym": "Swazi",
-    "area": 17364,
+    "area": 17364.0,
     "gini": 51.5,
     "timezones": [
       "UTC+02:00"
@@ -16592,7 +17776,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -16624,12 +17810,12 @@
     "subregion": "Northern Europe",
     "population": 9894888,
     "latlng": [
-      62,
-      15
+      62.0,
+      15.0
     ],
     "demonym": "Swedish",
-    "area": 450295,
-    "gini": 25,
+    "area": 450295.0,
+    "gini": 25.0,
     "timezones": [
       "UTC+01:00"
     ],
@@ -16671,8 +17857,12 @@
       {
         "acronym": "EU",
         "name": "European Union",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "SWE"
@@ -16700,11 +17890,11 @@
     "subregion": "Western Europe",
     "population": 8341600,
     "latlng": [
-      47,
-      8
+      47.0,
+      8.0
     ],
     "demonym": "Swiss",
-    "area": 41284,
+    "area": 41284.0,
     "gini": 33.7,
     "timezones": [
       "UTC+01:00"
@@ -16762,8 +17952,12 @@
       {
         "acronym": "EFTA",
         "name": "European Free Trade Association",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "SUI"
@@ -16788,11 +17982,11 @@
     "subregion": "Western Asia",
     "population": 18564000,
     "latlng": [
-      35,
-      38
+      35.0,
+      38.0
     ],
     "demonym": "Syrian",
-    "area": 185180,
+    "area": 185180.0,
     "gini": 35.8,
     "timezones": [
       "UTC+02:00"
@@ -16838,7 +18032,9 @@
       {
         "acronym": "AL",
         "name": "Arab League",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "جامعة الدول العربية",
           "Jāmiʻat ad-Duwal al-ʻArabīyah",
@@ -16871,15 +18067,17 @@
     "population": 23503349,
     "latlng": [
       23.5,
-      121
+      121.0
     ],
     "demonym": "Taiwanese",
-    "area": 36193,
+    "area": 36193.0,
     "gini": null,
     "timezones": [
       "UTC+08:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "臺灣",
     "numericCode": "158",
     "currencies": [
@@ -16910,7 +18108,9 @@
       "fa": "تایوان"
     },
     "flag": "https://restcountries.eu/data/twn.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "TPE"
   },
   {
@@ -16935,11 +18135,11 @@
     "subregion": "Central Asia",
     "population": 8593600,
     "latlng": [
-      39,
-      71
+      39.0,
+      71.0
     ],
     "demonym": "Tadzhik",
-    "area": 143100,
+    "area": 143100.0,
     "gini": 30.8,
     "timezones": [
       "UTC+05:00"
@@ -16986,7 +18186,9 @@
       "fa": "تاجیکستان"
     },
     "flag": "https://restcountries.eu/data/tjk.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "TJK"
   },
   {
@@ -17009,11 +18211,11 @@
     "subregion": "Eastern Africa",
     "population": 55155000,
     "latlng": [
-      -6,
-      35
+      -6.0,
+      35.0
     ],
     "demonym": "Tanzanian",
-    "area": 945087,
+    "area": 945087.0,
     "gini": 37.6,
     "timezones": [
       "UTC+03:00"
@@ -17068,7 +18270,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -17103,12 +18307,12 @@
     "subregion": "South-Eastern Asia",
     "population": 65327652,
     "latlng": [
-      15,
-      100
+      15.0,
+      100.0
     ],
     "demonym": "Thai",
-    "area": 513120,
-    "gini": 40,
+    "area": 513120.0,
+    "gini": 40.0,
     "timezones": [
       "UTC+07:00"
     ],
@@ -17152,8 +18356,12 @@
       {
         "acronym": "ASEAN",
         "name": "Association of Southeast Asian Nations",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "THA"
@@ -17184,7 +18392,7 @@
       125.91666666
     ],
     "demonym": "East Timorese",
-    "area": 14874,
+    "area": 14874.0,
     "gini": 31.9,
     "timezones": [
       "UTC+09:00"
@@ -17227,7 +18435,9 @@
       "fa": "تیمور شرقی"
     },
     "flag": "https://restcountries.eu/data/tls.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "TLS"
   },
   {
@@ -17251,11 +18461,11 @@
     "subregion": "Western Africa",
     "population": 7143000,
     "latlng": [
-      8,
+      8.0,
       1.16666666
     ],
     "demonym": "Togolese",
-    "area": 56785,
+    "area": 56785.0,
     "gini": 34.4,
     "timezones": [
       "UTC"
@@ -17299,7 +18509,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -17329,16 +18541,18 @@
     "subregion": "Polynesia",
     "population": 1411,
     "latlng": [
-      -9,
-      -172
+      -9.0,
+      -172.0
     ],
     "demonym": "Tokelauan",
-    "area": 12,
+    "area": 12.0,
     "gini": null,
     "timezones": [
       "UTC+13:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Tokelau",
     "numericCode": "772",
     "currencies": [
@@ -17369,7 +18583,9 @@
       "fa": "توکلائو"
     },
     "flag": "https://restcountries.eu/data/tkl.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": ""
   },
   {
@@ -17390,16 +18606,18 @@
     "subregion": "Polynesia",
     "population": 103252,
     "latlng": [
-      -20,
-      -175
+      -20.0,
+      -175.0
     ],
     "demonym": "Tongan",
-    "area": 747,
+    "area": 747.0,
     "gini": null,
     "timezones": [
       "UTC+13:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Tonga",
     "numericCode": "776",
     "currencies": [
@@ -17436,7 +18654,9 @@
       "fa": "تونگا"
     },
     "flag": "https://restcountries.eu/data/ton.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "TGA"
   },
   {
@@ -17458,16 +18678,18 @@
     "subregion": "Caribbean",
     "population": 1349667,
     "latlng": [
-      11,
-      -61
+      11.0,
+      -61.0
     ],
     "demonym": "Trinidadian",
-    "area": 5130,
+    "area": 5130.0,
     "gini": 40.3,
     "timezones": [
       "UTC-04:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Trinidad and Tobago",
     "numericCode": "780",
     "currencies": [
@@ -17502,7 +18724,9 @@
       {
         "acronym": "CARICOM",
         "name": "Caribbean Community",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "Comunidad del Caribe",
           "Communauté Caribéenne",
@@ -17532,11 +18756,11 @@
     "subregion": "Northern Africa",
     "population": 11154400,
     "latlng": [
-      34,
-      9
+      34.0,
+      9.0
     ],
     "demonym": "Tunisian",
-    "area": 163610,
+    "area": 163610.0,
     "gini": 41.4,
     "timezones": [
       "UTC+01:00"
@@ -17579,7 +18803,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -17591,7 +18817,9 @@
       {
         "acronym": "AL",
         "name": "Arab League",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "جامعة الدول العربية",
           "Jāmiʻat ad-Duwal al-ʻArabīyah",
@@ -17622,12 +18850,12 @@
     "subregion": "Western Asia",
     "population": 78741053,
     "latlng": [
-      39,
-      35
+      39.0,
+      35.0
     ],
     "demonym": "Turkish",
-    "area": 783562,
-    "gini": 39,
+    "area": 783562.0,
+    "gini": 39.0,
     "timezones": [
       "UTC+03:00"
     ],
@@ -17671,7 +18899,9 @@
       "fa": "ترکیه"
     },
     "flag": "https://restcountries.eu/data/tur.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "TUR"
   },
   {
@@ -17692,11 +18922,11 @@
     "subregion": "Central Asia",
     "population": 4751120,
     "latlng": [
-      40,
-      60
+      40.0,
+      60.0
     ],
     "demonym": "Turkmen",
-    "area": 488100,
+    "area": 488100.0,
     "gini": 40.8,
     "timezones": [
       "UTC+05:00"
@@ -17743,7 +18973,9 @@
       "fa": "ترکمنستان"
     },
     "flag": "https://restcountries.eu/data/tkm.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "TKM"
   },
   {
@@ -17768,12 +19000,14 @@
       -71.58333333
     ],
     "demonym": "Turks and Caicos Islander",
-    "area": 948,
+    "area": 948.0,
     "gini": null,
     "timezones": [
       "UTC-04:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Turks and Caicos Islands",
     "numericCode": "796",
     "currencies": [
@@ -17804,7 +19038,9 @@
       "fa": "جزایر تورکس و کایکوس"
     },
     "flag": "https://restcountries.eu/data/tca.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": ""
   },
   {
@@ -17825,16 +19061,18 @@
     "subregion": "Polynesia",
     "population": 10640,
     "latlng": [
-      -8,
-      178
+      -8.0,
+      178.0
     ],
     "demonym": "Tuvaluan",
-    "area": 26,
+    "area": 26.0,
     "gini": null,
     "timezones": [
       "UTC+12:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Tuvalu",
     "numericCode": "798",
     "currencies": [
@@ -17870,7 +19108,9 @@
       "fa": "تووالو"
     },
     "flag": "https://restcountries.eu/data/tuv.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "TUV"
   },
   {
@@ -17893,11 +19133,11 @@
     "subregion": "Eastern Africa",
     "population": 33860700,
     "latlng": [
-      1,
-      32
+      1.0,
+      32.0
     ],
     "demonym": "Ugandan",
-    "area": 241550,
+    "area": 241550.0,
     "gini": 44.3,
     "timezones": [
       "UTC+03:00"
@@ -17949,7 +19189,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -17980,11 +19222,11 @@
     "subregion": "Eastern Europe",
     "population": 42692393,
     "latlng": [
-      49,
-      32
+      49.0,
+      32.0
     ],
     "demonym": "Ukrainian",
-    "area": 603700,
+    "area": 603700.0,
     "gini": 26.4,
     "timezones": [
       "UTC+02:00"
@@ -18028,7 +19270,9 @@
       "fa": "وکراین"
     },
     "flag": "https://restcountries.eu/data/ukr.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "UKR"
   },
   {
@@ -18050,11 +19294,11 @@
     "subregion": "Western Asia",
     "population": 9856000,
     "latlng": [
-      24,
-      54
+      24.0,
+      54.0
     ],
     "demonym": "Emirati",
-    "area": 83600,
+    "area": 83600.0,
     "gini": null,
     "timezones": [
       "UTC+04"
@@ -18097,7 +19341,9 @@
       {
         "acronym": "AL",
         "name": "Arab League",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "جامعة الدول العربية",
           "Jāmiʻat ad-Duwal al-ʻArabīyah",
@@ -18127,12 +19373,12 @@
     "subregion": "Northern Europe",
     "population": 65110000,
     "latlng": [
-      54,
-      -2
+      54.0,
+      -2.0
     ],
     "demonym": "British",
-    "area": 242900,
-    "gini": 34,
+    "area": 242900.0,
+    "gini": 34.0,
     "timezones": [
       "UTC-08:00",
       "UTC-05:00",
@@ -18181,71 +19427,15 @@
       {
         "acronym": "EU",
         "name": "European Union",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "GBR"
-  },
-  {
-    "name": "United States Minor Outlying Islands",
-    "topLevelDomain": [
-      ".us"
-    ],
-    "alpha2Code": "UM",
-    "alpha3Code": "UMI",
-    "callingCodes": [
-      ""
-    ],
-    "capital": "",
-    "altSpellings": [
-      "UM"
-    ],
-    "region": "Americas",
-    "subregion": "Northern America",
-    "population": 300,
-    "latlng": [],
-    "demonym": "American",
-    "area": null,
-    "gini": null,
-    "timezones": [
-      "UTC-11:00",
-      "UTC-10:00",
-      "UTC+12:00"
-    ],
-    "borders": [],
-    "nativeName": "United States Minor Outlying Islands",
-    "numericCode": "581",
-    "currencies": [
-      {
-        "code": "USD",
-        "name": "United States Dollar",
-        "symbol": "$"
-      }
-    ],
-    "languages": [
-      {
-        "iso639_1": "en",
-        "iso639_2": "eng",
-        "name": "English",
-        "nativeName": "English"
-      }
-    ],
-    "translations": {
-      "de": "Kleinere Inselbesitzungen der Vereinigten Staaten",
-      "es": "Islas Ultramarinas Menores de Estados Unidos",
-      "fr": "Îles mineures éloignées des États-Unis",
-      "ja": "合衆国領有小離島",
-      "it": "Isole minori esterne degli Stati Uniti d'America",
-      "br": "Ilhas Menores Distantes dos Estados Unidos",
-      "pt": "Ilhas Menores Distantes dos Estados Unidos",
-      "nl": "Kleine afgelegen eilanden van de Verenigde Staten",
-      "hr": "Mali udaljeni otoci SAD-a",
-      "fa": "جزایر کوچک حاشیه‌ای ایالات متحده آمریکا"
-    },
-    "flag": "https://restcountries.eu/data/umi.svg",
-    "regionalBlocs": [],
-    "cioc": ""
   },
   {
     "name": "United States of America",
@@ -18267,12 +19457,12 @@
     "subregion": "Northern America",
     "population": 323947000,
     "latlng": [
-      38,
-      -97
+      38.0,
+      -97.0
     ],
     "demonym": "American",
-    "area": 9629091,
-    "gini": 48,
+    "area": 9629091.0,
+    "gini": 48.0,
     "timezones": [
       "UTC-12:00",
       "UTC-11:00",
@@ -18324,7 +19514,9 @@
       {
         "acronym": "NAFTA",
         "name": "North American Free Trade Agreement",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "Tratado de Libre Comercio de América del Norte",
           "Accord de Libre-échange Nord-Américain"
@@ -18353,11 +19545,11 @@
     "subregion": "South America",
     "population": 3480222,
     "latlng": [
-      -33,
-      -56
+      -33.0,
+      -56.0
     ],
     "demonym": "Uruguayan",
-    "area": 181034,
+    "area": 181034.0,
     "gini": 39.7,
     "timezones": [
       "UTC-03:00"
@@ -18436,11 +19628,11 @@
     "subregion": "Central Asia",
     "population": 31576400,
     "latlng": [
-      41,
-      64
+      41.0,
+      64.0
     ],
     "demonym": "Uzbekistani",
-    "area": 447400,
+    "area": 447400.0,
     "gini": 36.7,
     "timezones": [
       "UTC+05:00"
@@ -18488,7 +19680,9 @@
       "fa": "ازبکستان"
     },
     "flag": "https://restcountries.eu/data/uzb.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "UZB"
   },
   {
@@ -18512,16 +19706,18 @@
     "subregion": "Melanesia",
     "population": 277500,
     "latlng": [
-      -16,
-      167
+      -16.0,
+      167.0
     ],
     "demonym": "Ni-Vanuatu",
-    "area": 12189,
+    "area": 12189.0,
     "gini": null,
     "timezones": [
       "UTC+11:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Vanuatu",
     "numericCode": "548",
     "currencies": [
@@ -18564,7 +19760,9 @@
       "fa": "وانواتو"
     },
     "flag": "https://restcountries.eu/data/vut.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": "VAN"
   },
   {
@@ -18587,11 +19785,11 @@
     "subregion": "South America",
     "population": 31028700,
     "latlng": [
-      8,
-      -66
+      8.0,
+      -66.0
     ],
     "demonym": "Venezuelan",
-    "area": 916445,
+    "area": 916445.0,
     "gini": 44.8,
     "timezones": [
       "UTC-04:00"
@@ -18674,7 +19872,7 @@
       107.83333333
     ],
     "demonym": "Vietnamese",
-    "area": 331212,
+    "area": 331212.0,
     "gini": 35.6,
     "timezones": [
       "UTC+07:00"
@@ -18718,141 +19916,15 @@
       {
         "acronym": "ASEAN",
         "name": "Association of Southeast Asian Nations",
-        "otherAcronyms": [],
-        "otherNames": []
+        "otherAcronyms": [
+          
+        ],
+        "otherNames": [
+          
+        ]
       }
     ],
     "cioc": "VIE"
-  },
-  {
-    "name": "Virgin Islands (British)",
-    "topLevelDomain": [
-      ".vg"
-    ],
-    "alpha2Code": "VG",
-    "alpha3Code": "VGB",
-    "callingCodes": [
-      "1284"
-    ],
-    "capital": "Road Town",
-    "altSpellings": [
-      "VG"
-    ],
-    "region": "Americas",
-    "subregion": "Caribbean",
-    "population": 28514,
-    "latlng": [
-      18.431383,
-      -64.62305
-    ],
-    "demonym": "Virgin Islander",
-    "area": 151,
-    "gini": null,
-    "timezones": [
-      "UTC-04:00"
-    ],
-    "borders": [],
-    "nativeName": "British Virgin Islands",
-    "numericCode": "092",
-    "currencies": [
-      {
-        "code": null,
-        "name": "[D]",
-        "symbol": "$"
-      },
-      {
-        "code": "USD",
-        "name": "United States dollar",
-        "symbol": "$"
-      }
-    ],
-    "languages": [
-      {
-        "iso639_1": "en",
-        "iso639_2": "eng",
-        "name": "English",
-        "nativeName": "English"
-      }
-    ],
-    "translations": {
-      "de": "Britische Jungferninseln",
-      "es": "Islas Vírgenes del Reino Unido",
-      "fr": "Îles Vierges britanniques",
-      "ja": "イギリス領ヴァージン諸島",
-      "it": "Isole Vergini Britanniche",
-      "br": "Ilhas Virgens Britânicas",
-      "pt": "Ilhas Virgens Britânicas",
-      "nl": "Britse Maagdeneilanden",
-      "hr": "Britanski Djevičanski Otoci",
-      "fa": "جزایر ویرجین بریتانیا"
-    },
-    "flag": "https://restcountries.eu/data/vgb.svg",
-    "regionalBlocs": [],
-    "cioc": "IVB"
-  },
-  {
-    "name": "Virgin Islands (U.S.)",
-    "topLevelDomain": [
-      ".vi"
-    ],
-    "alpha2Code": "VI",
-    "alpha3Code": "VIR",
-    "callingCodes": [
-      "1 340"
-    ],
-    "capital": "Charlotte Amalie",
-    "altSpellings": [
-      "VI",
-      "USVI",
-      "American Virgin Islands",
-      "U.S. Virgin Islands"
-    ],
-    "region": "Americas",
-    "subregion": "Caribbean",
-    "population": 114743,
-    "latlng": [
-      18.34,
-      -64.93
-    ],
-    "demonym": "Virgin Islander",
-    "area": 346.36,
-    "gini": null,
-    "timezones": [
-      "UTC-04:00"
-    ],
-    "borders": [],
-    "nativeName": "Virgin Islands of the United States",
-    "numericCode": "850",
-    "currencies": [
-      {
-        "code": "USD",
-        "name": "United States dollar",
-        "symbol": "$"
-      }
-    ],
-    "languages": [
-      {
-        "iso639_1": "en",
-        "iso639_2": "eng",
-        "name": "English",
-        "nativeName": "English"
-      }
-    ],
-    "translations": {
-      "de": "Amerikanische Jungferninseln",
-      "es": "Islas Vírgenes de los Estados Unidos",
-      "fr": "Îles Vierges des États-Unis",
-      "ja": "アメリカ領ヴァージン諸島",
-      "it": "Isole Vergini americane",
-      "br": "Ilhas Virgens Americanas",
-      "pt": "Ilhas Virgens Americanas",
-      "nl": "Verenigde Staten Maagdeneilanden",
-      "hr": null,
-      "fa": "جزایر ویرجین آمریکا"
-    },
-    "flag": "https://restcountries.eu/data/vir.svg",
-    "regionalBlocs": [],
-    "cioc": "ISV"
   },
   {
     "name": "Wallis and Futuna",
@@ -18878,12 +19950,14 @@
       -176.2
     ],
     "demonym": "Wallis and Futuna Islander",
-    "area": 142,
+    "area": 142.0,
     "gini": null,
     "timezones": [
       "UTC+12:00"
     ],
-    "borders": [],
+    "borders": [
+      
+    ],
     "nativeName": "Wallis et Futuna",
     "numericCode": "876",
     "currencies": [
@@ -18914,7 +19988,9 @@
       "fa": "والیس و فوتونا"
     },
     "flag": "https://restcountries.eu/data/wlf.svg",
-    "regionalBlocs": [],
+    "regionalBlocs": [
+      
+    ],
     "cioc": ""
   },
   {
@@ -18937,10 +20013,10 @@
     "population": 510713,
     "latlng": [
       24.5,
-      -13
+      -13.0
     ],
     "demonym": "Sahrawi",
-    "area": 266000,
+    "area": 266000.0,
     "gini": null,
     "timezones": [
       "UTC+00:00"
@@ -18989,7 +20065,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -19021,11 +20099,11 @@
     "subregion": "Western Asia",
     "population": 27478000,
     "latlng": [
-      15,
-      48
+      15.0,
+      48.0
     ],
     "demonym": "Yemeni",
-    "area": 527968,
+    "area": 527968.0,
     "gini": 37.7,
     "timezones": [
       "UTC+03:00"
@@ -19068,7 +20146,9 @@
       {
         "acronym": "AL",
         "name": "Arab League",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "جامعة الدول العربية",
           "Jāmiʻat ad-Duwal al-ʻArabīyah",
@@ -19097,11 +20177,11 @@
     "subregion": "Eastern Africa",
     "population": 15933883,
     "latlng": [
-      -15,
-      30
+      -15.0,
+      30.0
     ],
     "demonym": "Zambian",
-    "area": 752612,
+    "area": 752612.0,
     "gini": 54.6,
     "timezones": [
       "UTC+02:00"
@@ -19150,7 +20230,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -19181,11 +20263,11 @@
     "subregion": "Eastern Africa",
     "population": 14240168,
     "latlng": [
-      -20,
-      30
+      -20.0,
+      30.0
     ],
     "demonym": "Zimbabwean",
-    "area": 390757,
+    "area": 390757.0,
     "gini": null,
     "timezones": [
       "UTC+02:00"
@@ -19282,7 +20364,9 @@
       {
         "acronym": "AU",
         "name": "African Union",
-        "otherAcronyms": [],
+        "otherAcronyms": [
+          
+        ],
         "otherNames": [
           "الاتحاد الأفريقي",
           "Union africaine",
@@ -19293,76 +20377,5 @@
       }
     ],
     "cioc": "ZIM"
-  },
-  {
-    "name": "Åland Islands",
-    "topLevelDomain": [
-      ".ax"
-    ],
-    "alpha2Code": "AX",
-    "alpha3Code": "ALA",
-    "callingCodes": [
-      "358"
-    ],
-    "capital": "Mariehamn",
-    "altSpellings": [
-      "AX",
-      "Aaland",
-      "Aland",
-      "Ahvenanmaa"
-    ],
-    "region": "Europe",
-    "subregion": "Northern Europe",
-    "population": 28875,
-    "latlng": [
-      60.116667,
-      19.9
-    ],
-    "demonym": "Ålandish",
-    "area": 1580,
-    "gini": null,
-    "timezones": [
-      "UTC+02:00"
-    ],
-    "borders": [],
-    "nativeName": "Åland",
-    "numericCode": "248",
-    "currencies": [
-      {
-        "code": "EUR",
-        "name": "Euro",
-        "symbol": "€"
-      }
-    ],
-    "languages": [
-      {
-        "iso639_1": "sv",
-        "iso639_2": "swe",
-        "name": "Swedish",
-        "nativeName": "svenska"
-      }
-    ],
-    "translations": {
-      "de": "Åland",
-      "es": "Alandia",
-      "fr": "Åland",
-      "ja": "オーランド諸島",
-      "it": "Isole Aland",
-      "br": "Ilhas de Aland",
-      "pt": "Ilhas de Aland",
-      "nl": "Ålandeilanden",
-      "hr": "Ålandski otoci",
-      "fa": "جزایر الند"
-    },
-    "flag": "https://restcountries.eu/data/ala.svg",
-    "regionalBlocs": [
-      {
-        "acronym": "EU",
-        "name": "European Union",
-        "otherAcronyms": [],
-        "otherNames": []
-      }
-    ],
-    "cioc": ""
   }
 ]

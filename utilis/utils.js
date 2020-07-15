@@ -1,11 +1,11 @@
 // stock the json file
-var jsonData = require("../country.json");
+var jsonData = require("../data/country.json");
 
 // module
 const jsonfile = require("jsonfile");
 
 // variable
-const dataPath = "./country.json";
+const dataPath = "./data/country.json";
 
 //Model import - Country class
 const Country = require("../model/country.js");
@@ -67,18 +67,29 @@ class Utils {
     return country;
   }
 
+  /**
+   * @returns all the countries using .map()
+   */
   static getCountriesNamesMap() {
     return jsonData.map((pays) => {
       return pays.name;
     });
   }
-  
+
+  /**
+   * @returns all the capitals using .map()
+   */
   static getCapitalsMap() {
     return jsonData.map((capital) => {
       return capital.capital;
     });
   }
 
+  /**
+   * @summary looking for a country by using forEach()
+   * @returns the information of a choosen country
+   * @param {*} countryName 
+   */
   static getCountryByName(countryName) {
     var myitem = null;
     jsonData.forEach((item) => {
@@ -89,6 +100,11 @@ class Utils {
     return myitem;
   }
 
+  /**
+   * @summary loop through jsonData and stock in an array the countries inside a choosen region
+   * @returns the coutries inside a choosen region
+   * @param {*} regionName 
+   */
   static getCountriesByRegion(regionName) {
     // first letter is upper the other lower
     const inputSensitiveRegionName =
@@ -100,10 +116,14 @@ class Utils {
         countriesOfRegion.push(jsonData[i].name);
       }
     }
-
     return countriesOfRegion;
   }
 
+  /**
+   * @summary loop through jsonData and stock in an array the countries inside a choosen subregion
+   * @return the coutries inside a choosen subregion
+   * @param {*} subregionName 
+   */
   static getCountriesBySubregion(subregionName) {
     var subregionArray = [];
     // check in jsonData if the user input exist if yes add the country to subregionArray
@@ -115,6 +135,10 @@ class Utils {
     return subregionArray;
   }
 
+  /**
+   * @returns all the coutries using the choosen currencies
+   * @param {*} currency 
+   */
   static getCountriesByCurrency(currency) {
     let currencyUpper = currency.toUpperCase();
     var currenciesArray = [];
@@ -126,6 +150,13 @@ class Utils {
     });
     return currenciesArray;
   }
+
+  /**
+   * @summary loop inside jsonData for find the country to modify then affect the new data
+   * @return the modify country
+   * @param {*} countryName 
+   * @param {*} data 
+   */
   static updateCountryDetail(countryName, data) {
     // use to stock the country target
     var tempCountry = null;
@@ -141,7 +172,10 @@ class Utils {
     }
     return tempCountry;
   }
-
+  /**
+   * @summary found a country in jsonData splice it and write
+   * @param {*} countryName 
+   */
   static deleteCountry(countryName) {
     // const inputUser = req.params.countryName;
     //searching for the input in the json
@@ -159,6 +193,12 @@ class Utils {
     return found ? true : false;
   }
 
+
+  /**
+   * @summary use to sort json file
+   * @param {*} json 
+   * @param {*} param 
+   */
   static sortJsonByName(json, param) {
     function predicateBy(prop) {
       return function (a, b) {
@@ -174,7 +214,7 @@ class Utils {
   }
 
   /**
-   * @throws
+   * @throws err if any of required field of Country class is missing
    * @param {*} data
    */
   static createCountry(data) {
