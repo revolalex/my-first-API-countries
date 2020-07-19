@@ -53,9 +53,15 @@ vscode:
 
 ## API end points:
 
-http://localhost:8080/currencies/ + the currencies ==> example for find all the countries using euro currencies: http://localhost:8080/currencies/eur
-http://localhost:8080/country/ + the country ==> example for all the information of France: http://localhost:8080/country/france
-http://localhost:8080/regions/ + the region  ==> example for find all the countries inside Asia region : http://localhost:8080/regions/Asia
+http://localhost:8080/currencies/ + the currencies <br>
+==> example for find all the countries using euro currencies: http://localhost:8080/currencies/eur <br>
+
+http://localhost:8080/country/ + the country <br>
+==> example for all the information of France: http://localhost:8080/country/france <br>
+
+http://localhost:8080/regions/ + the region  <br>
+==> example for find all the countries inside Asia region : http://localhost:8080/regions/Asia <br>
+
 etc...
 
 
