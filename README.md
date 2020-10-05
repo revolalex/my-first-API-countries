@@ -1,3 +1,4 @@
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Frevolalex%2Fmy-first-API-countries" alt="Hits">.
 # my-first-API-countries
 > This project goal was to realize my first API
 ---
